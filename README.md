@@ -79,9 +79,9 @@ My approach is centered on:
 
 - Preparing for CompTIA Security+ Certification
 - Understanding AI integration and the unique challenges that come with developing working policy in this expanded arena  
-- Expanding hands-on GRC and audit-focused deliverables (risk registers, audit reports, control mappings)  
-- Strengthening expertise in risk-based decision making  
-
+- Developing hands-on GRC and audit-focused deliverables (risk registers, audit reports, control mappings)  
+- Strengthening expertise in risk-based decision making
+- Keeping track of real-world situations and drawing on experiences from myself and others to understand why certain policies and procedures are needed
 ---
 
 ## 🤝 Let’s Connect
