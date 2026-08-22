@@ -12,7 +12,7 @@ I seek to navigate these communicative roadways to build usable solutions that a
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me 
 
 Technology has always drawn interest from me from age 10, but my early years weren't spent capitalizing on that interest. My years have been spent understanding (or becoming frustrated with) governance and compliance policy from the perspective of the employees it effects. Active GRC solutions and policies should drive productivity on all levels of a business. This while remaining in compliance with standards to ensure operational security.
 
@@ -20,7 +20,7 @@ My approach is centered on:
 - Developing usable controls that fit NIST and ISO 27001 frameworks, but don't impeded work and business progress
 - What's our client's goal? What's our budget? Do we have the personnel to achieve the goal? Let's build the appropriate solution starting with the endpoint
 - Implementing controls that can be consistently monitored more frequently than current standards require
-
+[Extended Version](https://github.com/jphumphries/jphumphries/edit/main/AboutMe.md)
 ---
 
 ## 🛡️ Core Focus Areas
