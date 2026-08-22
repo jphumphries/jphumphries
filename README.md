@@ -2,18 +2,24 @@
 
 🎯 IT Audit | Risk Management | GRC (Governance, Risk, and Compliance)
 
-I specialize in identifying weaknesses in organizational security posture and developing practical, business-aligned strategies to reduce risk and achieve compliance.
+My goal is to work with my team in identifying weaknesses in organizational security posture and developing practical, business-aligned strategies to reduce risk and achieve compliance.
+
+That said:
+
+There aren't always clear answers to security problems, particularly when it comes to continually implementing actionable changing in work environments. This is equally true when communicating with team members, governing bodies, and ensuring that employees can work unimpeded and business goals are met above all of these things. 
+
+I seek to navigate these communicative roadways to build usable solutions that are built for continuous monitoring with room for working changes as needed.
 
 ---
 
 ## 🧠 About Me
 
-I focus on applying cybersecurity frameworks in real-world scenarios—bridging the gap between compliance requirements and operational reality.
+Technology has always drawn interest from me from age 10, but my early years weren't spent capitalizing on that interest. My years have been spent understanding (or becoming frustrated with) governance and compliance policy from the perspective of the employees it effects. Active GRC solutions and policies should drive productivity on all levels of a business. This while remaining in compliance with standards to ensure operational security.
 
 My approach is centered on:
-- Translating frameworks like NIST and ISO 27001 into actionable controls
-- Aligning remediation strategies with business constraints (time, budget, manpower)
-- Driving measurable improvements in security posture and compliance readiness
+- Developing usable controls that fit NIST and ISO 27001 frameworks, but don't impeded work and business progress
+- What's our client's goal? What's our budget? Do we have the personnel to achieve the goal? Let's build the appropriate solution starting with the endpoint
+- Implementing controls that can be consistently monitored more frequently than current standards require
 
 ---
 
@@ -24,13 +30,6 @@ My approach is centered on:
 - NIST Cybersecurity Framework (CSF) Implementation  
 - ISO 27001 Compliance & Audit Readiness  
 - Security Gap Analysis  
-
----
-
-## 📜 Certifications & Training
-
-- ✅ GRC Mastery (Completed)  
-- ⏳ CompTIA Security+ (In Progress)  
 
 ---
 
@@ -78,7 +77,8 @@ My approach is centered on:
 
 ## 📈 What I’m Currently Working On
 
-- Preparing for CompTIA Security+ Certification  
+- Preparing for CompTIA Security+ Certification
+- Understanding AI integration and the unique challenges that come with developing working policy in this expanded arena  
 - Expanding hands-on GRC and audit-focused deliverables (risk registers, audit reports, control mappings)  
 - Strengthening expertise in risk-based decision making  
 
@@ -86,9 +86,9 @@ My approach is centered on:
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *(Add your link here)*  
-- 📫 Email: *(Optional)*  
+- 💼 LinkedIn: [Check Me Out Here](https://www.linkedin.com/in/jarellhumphries/) 
+- 📫 Email: [Leave Me a Message](mailto:humphriesjarell@gmail.com)
 
 ---
 
-⭐ *I’m actively seeking opportunities in IT Audit, Risk Management, and GRC where I can contribute to strengthening security posture and driving compliance initiatives.*
+⭐ *I'm definitely actively seeking opportunities in Compliance Auditing, Risk Management, and GRC where I can contribute to strengthening security posture and driving compliance goals.*
