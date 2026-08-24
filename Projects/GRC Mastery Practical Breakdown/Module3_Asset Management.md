@@ -10,7 +10,7 @@ KPMG noted that Oscorp does not have a good handle on asset management. They not
 
 ---
 
-## My Thoughts  
+## 🔹 My Thoughts & Slution 
 
 Oscorp does not have a cyber security team, so that’s where we would start first. The company needs a team built from the ground up, starting with hiring a CTO accountable directly to Mr Osborn and a GRC Analyst to help direct the building of a team the 3 year plan they will follow.  
 
@@ -39,4 +39,4 @@ Compliance Assessment according to the CMDB:
 •	Software Subscription/ Critical Update Schedule  
 •	Importance to Business Function Rating for classification purposes  
 
-It would prove beneficial to the business to routinely  this asset database every three months, or as new assets are cycle. Someone on the IT team needs to be responsible for keeping with the asset management schedule.
+It would prove beneficial to the business to routinely review this asset database periodically, or as new assets are cycled in. A member of the IT team needs to be responsible for keeping with the asset management schedule.
