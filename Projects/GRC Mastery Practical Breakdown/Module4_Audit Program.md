@@ -11,11 +11,14 @@ They also have an internal audit function that conducts financial audits.
 
 ## My Thoughts & Solution:  
 
-[Line 1 – CyberSec Team]
-We must establish a team of professionals to manage threats and maintain digital security for the business. The cost of necessary tools needs to be accounted for and counted into the cost of keeping the team running. At minimum, they must hire:
-1.	CISO 
-a.	Incident Response Director
-i.	SOC L3
+[Line 1 – CyberSec Team]  
+
+We must establish a team of professionals to manage threats and maintain digital security for the business. The cost of necessary tools needs to be accounted for and counted into the cost of keeping the team running.  
+
+At minimum, they must hire:  
+1.	CISO
+   a.	Incident Response Director
+  	 i.	SOC L3
 ii.	SOC L2
 iii.	SOC L1
 b.	Security Engineer
