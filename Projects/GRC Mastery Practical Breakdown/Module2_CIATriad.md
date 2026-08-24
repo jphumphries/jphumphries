@@ -38,17 +38,19 @@ Let’s start with a few questions:
 
 [Integrity]  
 
-•	Document changes will need to be signed off by Harry Osborn  
-•	A backlog of document versions kept for the sake of records and project development according to the CMDB  
-•	A backup of current and future files ought to be set up to make new copies of files as they’re updated.  
-•	Is the lab protected by CCTV?  
-•	Do associates need to use multiple authentication methods to enter the lab?
+  •	Document changes will need to be signed off by Harry Osborn  
+  •	A backlog of document versions kept for the sake of records and project development according to the CMDB  
+  •	A backup of current and future files ought to be set up to make new copies of files as they’re updated.  
+  •	Is the lab protected by CCTV?  
+  •	Do associates need to use multiple authentication methods to enter the lab?
 
 [Availability]
-•	What redundancy methods are in place? Have backup systems been tested for accessibility during a power outage or breach situation?
-o	Record the cost of power outages, the price of backup power sources, and implement/connect to critical systems. We don’t want to lose access to critical documents at the wrong time. This will have financial implications down the road by delaying development of products or disrupting overall workflows across the business
-•	Backup systems need to be regularly tested for proper function.
+
+  •	What redundancy methods are in place? Have backup systems been tested for accessibility during a power outage or breach situation?  
+    o	Record the cost of power outages, the price of backup power sources, and implement/connect to critical systems. We don’t want to lose access to critical   documents at the wrong time. This will have financial implications down the road by delaying development of products or disrupting overall workflows across the business  
+  •	Backup systems need to be regularly tested for proper function.
 o	3 to 6 months (Conservative implementation at best)
 
-<b>Security measures are often overlooked and taken for granted in many smaller tech companies with data to protect. This leaves an open door for threat actors not only to access their data but also to practi(ce methodologies to use elsewhere. In this exercise Oscorp is not small by any means, but their security is being treated as an afterthought.</b>
+
+### Security measures are often overlooked and taken for granted in many smaller tech companies with data to protect. This leaves an open door for threat actors not only to access their data but also to practice methodologies to use elsewhere. In this exercise Oscorp is not small by any means, but their security is being treated as an afterthought...
 
