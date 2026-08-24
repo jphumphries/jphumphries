@@ -47,10 +47,9 @@ Let’s start with a few questions:
 [Availability]
 
   •	What redundancy methods are in place? Have backup systems been tested for accessibility during a power outage or breach situation?  
-    o	Record the cost of power outages, the price of backup power sources, and implement/connect to critical systems. We don’t want to lose access to critical   documents at the wrong time. This will have financial implications down the road by delaying development of products or disrupting overall workflows across the business  
-  •	Backup systems need to be regularly tested for proper function.
-o	3 to 6 months (Conservative implementation at best)
-
+  •	Record the cost of power outages, backup power sources, and connecting them to critical data systems. We don’t want to lose access to critical information at the wrong time. The disruption of business workflow is the first thing we want to prevent as the financial ramifications in the mid- This will have financial implications down the road by delaying development of products or disrupting overall workflows across the business  
+    •	Backup systems need to be regularly tested for proper function every 3 to 6 months
+    
 
 ### Security measures are often overlooked and taken for granted in many smaller tech companies with data to protect. This leaves an open door for threat actors not only to access their data but also to practice methodologies to use elsewhere. In this exercise Oscorp is not small by any means, but their security is being treated as an afterthought...
 
