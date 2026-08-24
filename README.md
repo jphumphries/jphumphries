@@ -49,7 +49,7 @@ My approach is centered on:
 
 ## 📂 Featured Projects
 
-### 🔹 GRC Practical Assessments – Security Risk & Remediation Planning
+### 🔹 [GRC Practical Assessments](https://github.com/jphumphries/jphumphries/tree/main/Projects/GRC%20Mastery%20Practical%20Breakdown) – Security Risk & Remediation Planning
 - Conducted multiple security posture assessments for a simulated enterprise environment handling highly confidential projects  
 - Identified critical risks including unauthorized access, data exposure, and weak access controls  
 - Developed tailored remediation strategies aligned with business constraints (resource availability, timelines, and cost)  
