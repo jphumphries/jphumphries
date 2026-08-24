@@ -9,7 +9,7 @@ They also have an internal audit function that conducts financial audits.
 
 ---
 
-## My Thoughts & Solution:  
+## 🔹 My Thoughts & Solution:  
 
 [Line 1 – CyberSec Team]  
 
