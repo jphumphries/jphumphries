@@ -16,20 +16,28 @@ Oscorp does not have a cyber security team, so that’s where we would start fir
 
 [A swift assessment should be conducted to put in place a temporary team to run things until a proper team can be put in place.]
 
-In order to protect the business, Oscorp needs a full assessment of the technology infrastructure and physical security posture. Improving on  Oscorp’s currently thin CMDB is key to bolstering their security posture.
-The CTO and CISO should commission associates in the collection of information on all of the company’s assets, physical, digital, and third party software. The business stakeholders need to be updated on the progress of collecting and classifying all physical and data assets.
-The following information should be collected for each asset (if possible): 
-•	Serial Numbers
+In order to protect the business, Oscorp needs a full assessment of the technology infrastructure and physical security posture. Improving on  Oscorp’s currently thin CMDB is key to bolstering their security posture.  
+
+The CTO and CISO should commission associates in the collection of information on all of the company’s assets, physical, digital, and third party software. The business stakeholders need to be updated on the progress of collecting and classifying all physical and data assets.  
+
+<b>The following information should be collected for each asset (if possible):</b>  
+
+Owner Information:
+o Name and Personal Information
+o Employee Details (tied to company property)
+
+Serial Numbers on:
 o	Laptops
 o	Cell Phones
 o	Security Cameras
 o	All Other Devices owned by the company
-•	Current Owner/User
-o	Compliance assessment according to the CMDB
+
+Compliance Assessment according to the CMDB:
 •	Price to Replace
 •	Cost to secure
 •	Date of Purchase
 •	Lifetime Runtime (Physical Assets)
 •	Software Subscription/ Critical Update Schedule
-•	Importance to Business Function Rating for classification purposes
+•	Importance to Business Function Rating for classification purposes  
+
 It would prove beneficial to the business to routinely  this asset database every three months, or as new assets are cycle. Someone on the IT team needs to be responsible for keeping with the asset management schedule.
