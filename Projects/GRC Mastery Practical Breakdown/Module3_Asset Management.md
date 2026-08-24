@@ -21,7 +21,7 @@ In order to protect the business, Oscorp needs a full assessment of the technolo
 ---
 <b>The following information should be collected for each asset (if possible):</b>  
 
-Owner Information:
+Owner Information:  
 • Name and Personal Information  
 • Employee Details (tied to company property)
 
