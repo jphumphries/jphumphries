@@ -18,7 +18,6 @@ Oscorp does not have a cyber security team, so that’s where we would start fir
 
 In order to protect the business, Oscorp needs a full assessment of the technology infrastructure and physical security posture. Improving on  Oscorp’s currently thin CMDB is key to bolstering their security posture. The CTO and CISO should commission associates in the collection of information on all of the company’s assets, physical, digital, and third party software. The business stakeholders need to be updated on the progress of collecting and classifying all physical and data assets.  
 
----
 <b>The following information should be collected for each asset (if possible):</b>  
 
 Owner Information:  
