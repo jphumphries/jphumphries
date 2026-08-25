@@ -23,8 +23,6 @@ Let’s start with a few questions:
 
   -Currently, only Chief Scientist Harry Osborn has access to the working files for this project so how do we go about structuring and maintaining security going forward?
 
----
-
 ### 🔹 Consider the following measures:
 
 [Confidentiality]
