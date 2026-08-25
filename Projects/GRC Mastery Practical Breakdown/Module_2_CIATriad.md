@@ -12,7 +12,7 @@ What questions will you ask Harry as they related to the CIA triad? What recomme
 
 ---
 
-## My Thoughts & Recommendations
+## 🔹 My Thoughts & Recommendations
 Considering the high-profile nature of this project there are several security parameters that need to be addressed. Even in the early stages, this project needs to be kept secret to protect the interests of the business in the long and short term.  
 
 Let’s start with a few questions:  
@@ -25,7 +25,7 @@ Let’s start with a few questions:
 
 ---
 
-### Consider the following measures:
+### 🔹 Consider the following measures:
 
 [Confidentiality]
 
