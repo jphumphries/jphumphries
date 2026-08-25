@@ -1,11 +1,18 @@
-# [Mod 5] Identity & Access Management
-Prompt: Oscorp's new medication has finally hit the market and it's been a great success. However, the formula of the medication remains a secret. The formula is considered Oscorp's most sensitive asset.
-There is a lot of documentation related to this secret formula and it's all stored in a Microsoft SQL Database server 2022.
-Problem: You conducted an assessment on the application, and you found that any employee who is a member of the research lab has read access to the formula. You also found that Harry Osborne has full admin access to the database. Employees can login to the database using a username and a password.
+# [Mod 5] Identity & Access Management  
+**Prompt:** Oscorp's new medication has finally hit the market and it's been a great success. However, the formula of the medication remains a secret. The formula is considered Oscorp's most sensitive asset.  
+
+There is a lot of documentation related to this secret formula and it's all stored in a Microsoft SQL Database server 2022.  
+
+**Problem:** You conducted an assessment on the application, and you found that any employee who is a member of the research lab has read access to the formula. You also found that Harry Osborne has full admin access to the database. Employees can login to the database using a username and a password.  
 What will your recommendation be to secure Oscorp's most sensitive asset, from an identity and access management point of view?
 
+---
+
 ## 🔹 My Thoughts & Recommendations
-[1] First let’s take a close look at the current roster of employees, which department they work in, and determine exactly what access they need depending on the tasks that they normally perform. Succinctly, Oscorp needs to implement Role-based access control. A separate set of credentials should be created for the top-secret project in this exercise that limits access to any systems outside of the lab network. 
-•	Some provision should be made for temporary access to necessary data depending on the task so that there’s flexibility but also accountability and logs to keep track of actions.
-[2] Second, I would recommend using an active directory system to manage all of these access credentials. Microsoft Access directory would be a good place to start. Considering that Oscorp does not have an IT team, a team member will be accountable to properly manage employee access. Access needs to be limited to within work hours for top-secret projects, and admin access should be limited to Harry Osborn until such a time that he decides to release information to the public.
+
+[1] First let’s take a close look at the current roster of employees, which department they work in, and determine exactly what access they need depending on the tasks that they normally perform. Succinctly, Oscorp needs to implement Role-based access control. A separate set of credentials should be created for the top-secret project in this exercise that limits access to any systems outside of the lab network.  
+-	Some provision should be made for temporary access to necessary data depending on the task so that there’s flexibility but also accountability and logs to keep track of actions.
+
+[2] Second, I would recommend using an active directory system to manage all of these access credentials. Microsoft Access directory would be a good place to start. Considering that Oscorp does not have an IT team, a team member will be accountable to properly manage employee access. Access needs to be limited to within work hours for top-secret projects, and admin access should be limited to Harry Osborn until such a time that he decides to release information to the public.  
+
 [3] Multi-Factor Authentication needs to be a part of employee access to be compliant with modern security standards. An extra layer of authentication should be implemented which gives Osborn the ability to control access to the lab as an extra layer after lab employees enter their credentials for a fully secured laboratory. Passphrases are an option for lab access for the duration of the project.
