@@ -9,8 +9,16 @@ Oscorp currently has one security training module that all employees need to com
  
 ## [Mod 6] My Thoughts & Recommendations
 
-First we should examine the existing training module and invest in updating the information inside. This new update needs to include a phishing segment that stresses the importance of not falling for phishing messages and how to spot them. Measures to track how many associates have completed the course should be in place. Investing in a simulated phishing program to be deployed every 6 months after the trading period has ended would be wise.
+Does Oscorp have a robust training program to routinely update and test employee knowledge? 
 
+No, the only noted module was established over 10 years ago when the company was established. This is unacceptable for such a large business with data to protect.
+
+First we should examine the existing training module and invest in updating the information therein. This new update needs to include a phishing segment that stresses the importance of not falling for phishing messages and how to spot them. 
+Measures to measure the effectiveness of and how many associates have actually completed the course should be in place. Investing in a simulated phishing program to be deployed every 6 months after the trading period has ended might be wise investment to keep employee knowledge up to spec.
+
+I vouch for investing in a full cyber-security trainisng program for all associates. This to be scaled according to what level in the company various employees are involved at.
+
+[
 The first step would be to evaluate the current training module. Recommend the following:  
 - Refresh and update the training modules. I recommend investing in a newer more modern training system.
 - Employees should do mandatory training once every 12 months, as opposed to only at onboarding. Constant threats mean constant training updates.
@@ -19,5 +27,6 @@ Before investing in a training platform, recommend the following:
 
 The next logical step would be to invest in a simulated phishing training platform. In order for you to evaluate the vendor that Norman met with, you first need to request a demo from the vendor so you can see how the platform operates.
 Then request a price quotation from the vendor. Next, conduct a market research and get demos and pricing quotations from at least 3 x more vendors. Do a comparison and present your findings to Norman.
+]
 
 [It cannot be understated how important it will be to collect data on the effectiveness of the training program. It will do no good to launch an education system without active and continued testing of it's implementation and reception.]
