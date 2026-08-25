@@ -22,21 +22,21 @@ In order to protect the business, Oscorp needs a full assessment of the technolo
 <b>The following information should be collected for each asset (if possible):</b>  
 
 Owner Information:  
-• Name and Personal Information  
-• Employee Details (tied to company property)
+- Name and Personal Information
+- Employee Details (tied to company property)
 
 Serial Numbers on:  
-•	Laptops  
-•	Cell Phones  
-•	Security Cameras  
-•	All Other Devices owned by the company  
+- Laptops
+- Cell Phones
+- Security Cameras
+- All Other Devices owned by the company  
 
 Compliance Assessment according to the CMDB:  
-•	Price to Replace  
-•	Cost to secure  
-•	Date of Purchase  
-•	Lifetime Runtime (Physical Assets)  
-•	Software Subscription/ Critical Update Schedule  
-•	Importance to Business Function Rating for classification purposes  
+-	Price to Replace
+-	Cost to secure
+-	Date of Purchase
+-	Lifetime Runtime (Physical Assets)
+-	Software Subscription/ Critical Update Schedule
+-	Importance to Business Function Rating for classification purposes  
 
-It would prove beneficial to the business to routinely review this asset database periodically, or as new assets are cycled in. A member of the IT team needs to be responsible for keeping with the asset management schedule.
+### It would prove beneficial to the business to routinely review this asset database periodically, or as new assets are cycled in. A member of the IT team needs to be responsible for keeping with the asset management schedule.
