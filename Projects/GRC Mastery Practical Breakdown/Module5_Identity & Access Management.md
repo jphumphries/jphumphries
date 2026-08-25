@@ -1,4 +1,4 @@
-### [Mod 5] Identity & Access Management
+# [Mod 5] Identity & Access Management
 Prompt: Oscorp's new medication has finally hit the market and it's been a great success. However, the formula of the medication remains a secret. The formula is considered Oscorp's most sensitive asset.
 There is a lot of documentation related to this secret formula and it's all stored in a Microsoft SQL Database server 2022.
 Problem: You conducted an assessment on the application, and you found that any employee who is a member of the research lab has read access to the formula. You also found that Harry Osborne has full admin access to the database. Employees can login to the database using a username and a password.
