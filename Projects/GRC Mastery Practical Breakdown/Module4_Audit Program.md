@@ -30,8 +30,10 @@ This team will be responsible to internal management to perform regular audits t
 
 [Line 2 – Regulatory Auditor]
 
-Risk & Compliance Manager – To review the tools implemented by the L1 team, and review data to confirm whether the tools are working effectively or not. Suggest ways to improve current security poster to L1 team.  
+1. Risk & Compliance Manager – To review the tools implemented by the L1 team, and review data to confirm whether the tools are working effectively or not. Suggest ways to improve current security poster to L1 team.  
 
 [Line 3 – Full Internal Audit]
 
-Internal Compliance Auditor – To review the work of the operational team and the conclusions found by the Risk & Compliance Manager. Reports findings to business stakeholders and upper management.
+1. Internal Compliance Auditor – To review the work of the operational team and the conclusions found by the Risk & Compliance Manager. Reports findings to business stakeholders and upper management.
+
+### This is just a start to building a full team to take the full load of securing Oscorp. Without an adequate amount of eyes developing preventative measures, Oscorp is at high risk for becoming victim to threat actors. This is a critical step in building a foundational security posture.
