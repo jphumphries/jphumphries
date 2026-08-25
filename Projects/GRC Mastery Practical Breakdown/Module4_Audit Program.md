@@ -2,6 +2,7 @@
 
 <b>Problem:</b> Chief Scientist Harry Osborn has managed to make a breakthrough with his new highly confidential medication.  
 Oscorp's CEO asked you to design a cyber security audit program to ensure that Oscorp's cyber security controls are tested on a periodic basis.
+
 Oscorp currently has a small cyber security team that perform various technical activities such as detecting and responding to cyber security incidents and managing the firewalls.
 They also have an internal audit function that conducts financial audits.
 
