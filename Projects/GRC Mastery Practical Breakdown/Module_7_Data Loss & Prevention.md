@@ -29,6 +29,7 @@ What methods are needed to keep data from internal research from reaching the ou
 **I recommend that:**
 
 - Oscorp first classify sensitive and confidential data, based on the developed classification policy, using a program like MSFT Azure AIP. 
-- Data needs to be encrypted for movement within the company. To further monitor data movement a DLP system should be deployed to catch any sensitive data being moved from the servers to employee owned tech or emailed to outside email accounts.
+- Data needs to be encrypted for movement within the company.
+  - To further monitor data movement a DLP system should be deployed to catch any sensitive data being moved from the servers to employee owned tech or emailed to outside email accounts.
 - To monitor these states Oscorp will need to expand the SOC team to monitor employee threats and help optimize the DLP system so the most critical alerts will be received and analyzed.
 - Employees that are separated from the company immediately lose access to any internal system that they were using for their role.
