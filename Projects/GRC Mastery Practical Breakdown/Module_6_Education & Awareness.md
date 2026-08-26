@@ -11,7 +11,9 @@ Oscorp currently has one security training module that all employees need to com
 
 Does Oscorp have a robust training program to routinely update and test employee knowledge? 
 
-No, the only noted module was established over 10 years ago when the company was established. This is unacceptable for such a large business with data to protect.
+No, the only noted module was established over 10 years ago when the company was established. This is unacceptable for such a large business with data to protect. 
+
+Another important question given the nature of Oscorp's business. What other training do their employees need to keep the company's data, across the whole infrastructure, safe?
 
 First we should examine the existing training module and invest in updating the information therein. This new update needs to include a phishing segment that stresses the importance of not falling for phishing messages and how to spot them. 
 Measures to measure the effectiveness of and how many associates have actually completed the course should be in place. Investing in a simulated phishing program to be deployed every 6 months after the trading period has ended might be wise investment to keep employee knowledge up to spec.
