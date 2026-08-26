@@ -6,6 +6,8 @@ CEO Norman Osborn was invited to a free lunch by a prominent Cyber Security vend
 Norman asks you to evaluate the simulated phishing platform to help him decide whether it's worth the investment. Noting that he has an 'excess in budget' due to the recent success of Oscorp's new medication.
 
 Oscorp currently has one security training module that all employees need to complete when they join the company. The module discusses general security 'tips'. The module was introduced in 2013 when the company was established.
+
+---
  
 ## 🔹 My Thoughts & Recommendations
 
