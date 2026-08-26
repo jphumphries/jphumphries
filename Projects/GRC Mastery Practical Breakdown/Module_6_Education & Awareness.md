@@ -9,26 +9,22 @@ Oscorp currently has one security training module that all employees need to com
  
 ## [Mod 6] My Thoughts & Recommendations
 
-Does Oscorp have a robust training program to routinely update and test employee knowledge? 
+**Does Oscorp have a robust training program to routinely update and test employee knowledge?** 
 
 No, the only noted module was established over 10 years ago when the company was established. This is unacceptable for such a large business with data to protect. 
 
-Another important question given the nature of Oscorp's business. What other training do their employees need to keep the company's data, across the whole infrastructure, safe?
+**Another important question given the nature of Oscorp's business. What other training do their employees need to keep the company's data, across the whole infrastructure, safe?**
 
-First we should examine the existing training module and invest in updating the information therein. This new update needs to include a phishing segment that stresses the importance of not falling for phishing messages and how to spot them. 
-Measures to measure the effectiveness of and how many associates have actually completed the course should be in place. Investing in a simulated phishing program to be deployed every 6 months after the trading period has ended might be wise investment to keep employee knowledge up to spec.
+First, in the short term, we should examine the existing training module and invest in updating the information therein. This new update needs to include a phishing segment that stresses the importance of not falling for phishing messages and how to spot them. Introduce measures to collect data on the effectiveness of the current training. Investing in a simulated phishing program to be deployed every 6 months after the trading period has ended might be wise investment to keep employee knowledge up to spec. This data will be used to help structure the new training program that will be developed for the future.
 
-I vouch for investing in a full cyber-security trainisng program for all associates. This to be scaled according to what level in the company various employees are involved at.
+In the long term, the Cybersec team at Oscorp needs to develop a full-scope training program to be done by employees on a rolling basis as new threats are addressed and to keep employees from burning out on training. Onboarding training will cover basic security measures and expectations, while later training will provide updates, refreshers, and new training as needed. This training should be tailored to each employee depending on the role and stake in the business.
 
-[
-The first step would be to evaluate the current training module. Recommend the following:  
-- Refresh and update the training modules. I recommend investing in a newer more modern training system.
-- Employees should do mandatory training once every 12 months, as opposed to only at onboarding. Constant threats mean constant training updates.
-Before investing in a training platform, recommend the following:
-•	Publishing articles on the company's internal portal (intranet) on a periodic basis about various cyber security topics such as phishing, complex password, and malware.
 
-The next logical step would be to invest in a simulated phishing training platform. In order for you to evaluate the vendor that Norman met with, you first need to request a demo from the vendor so you can see how the platform operates.
-Then request a price quotation from the vendor. Next, conduct a market research and get demos and pricing quotations from at least 3 x more vendors. Do a comparison and present your findings to Norman.
-]
+In short, training needs are as follows:
 
-[It cannot be understated how important it will be to collect data on the effectiveness of the training program. It will do no good to launch an education system without active and continued testing of it's implementation and reception.]
+- Refresh the current necessary training module
+- Introduce telemetry to measure training effectiveness
+- Develop full-scope training alongside the refreshed training to eventually fully train employees about cybersecurity for the business
+  - Expect implementation in the next 3-6months at minimum
+
+[It cannot be understated how important it will be to collect data on the effectiveness of the training program. Investing in the launch of an education system without active and continued testing of it's implementation and reception would undermine the effort to bring Oscorp up to training standards.]
