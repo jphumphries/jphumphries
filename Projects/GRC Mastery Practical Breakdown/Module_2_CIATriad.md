@@ -43,7 +43,7 @@ Let’s start with a few questions:
 [Availability]
 
 - What redundancy methods are in place? Have backup systems been tested for accessibility during a power outage or breach situation?
-- Record the cost of power outages, backup power sources, and connecting them to critical data systems. We don’t want to lose access to critical information at the wrong time. The disruption of business workflow is the first thing we want to prevent as the financial ramifications in the mid- This will have financial implications down the road by delaying development of products or disrupting overall workflows across the business
+- Record the cost of power outages, backup power sources, and connecting them to critical data systems. We don’t want to lose access to critical information at the wrong time. The disruption of business workflow is the first thing we want to prevent as damage to the business's reputation carries widespread financial ramifications in immediate to long-term scenarios.
 - Backup systems need to be regularly tested for proper function every 3 to 6 months
     
 
