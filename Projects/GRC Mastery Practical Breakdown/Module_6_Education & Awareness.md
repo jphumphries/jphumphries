@@ -7,7 +7,7 @@ Norman asks you to evaluate the simulated phishing platform to help him decide w
 
 Oscorp currently has one security training module that all employees need to complete when they join the company. The module discusses general security 'tips'. The module was introduced in 2013 when the company was established.
  
-## [Mod 6] My Thoughts & Recommendations
+## 🔹 My Thoughts & Recommendations
 
 **Does Oscorp have a robust training program to routinely update and test employee knowledge?** 
 
