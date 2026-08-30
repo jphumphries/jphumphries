@@ -26,7 +26,6 @@ The most important conclusion from this section is that Oscorp does not yet have
 
 ![Identify Assessment Table](images/identify-assessment.png)
 
-*Image placeholder: export or capture the `Identify` worksheet and save it as `images/identify-assessment.png`.*
 
 ## Protect
 
@@ -38,7 +37,6 @@ The strongest treatment priorities are formalizing least privilege and separatio
 
 ![Protect Assessment Table](images/protect-assessment.png)
 
-*Image placeholder: export or capture the `Protect` worksheet and save it as `images/protect-assessment.png`.*
 
 ## Detect
 
@@ -50,7 +48,6 @@ This is why the roadmap delays a major SIEM investment until foundational loggin
 
 ![Detect Assessment Table](images/detect-assessment.png)
 
-*Image placeholder: export or capture the `Detect` worksheet and save it as `images/detect-assessment.png`.*
 
 ## Respond
 
@@ -62,7 +59,6 @@ This makes incident response an urgent program-level risk rather than a single c
 
 ![Respond Assessment Table](images/respond-assessment.png)
 
-*Image placeholder: export or capture the `Respond` worksheet and save it as `images/respond-assessment.png`.*
 
 ## Recover
 
@@ -74,7 +70,6 @@ Rather than replacing the existing recovery capability, the roadmap should build
 
 ![Recover Assessment Table](images/recover-assessment.png)
 
-*Image placeholder: export or capture the `Recover` worksheet and save it as `images/recover-assessment.png`.*
 
 ## Overall Assessment Conclusion
 
