@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document summarizes the five assessment tables in the original workbook and is designed for a GitHub-style repository. Each section provides a short interpretation of the table followed by a Markdown image reference. Add the corresponding exported worksheet image to the `images/` folder and it will render directly beneath the summary.
+This document summarizes the five assessment tables in the original workbook and is designed for a GitHub-style repository. Each section provides a short interpretation of the table followed by a Markdown image reference.
 
 ## Assessment Snapshot
 
