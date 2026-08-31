@@ -1,25 +1,23 @@
 # Oscorp Cybersecurity Program
 
-## Risk-Driven GRC & Security Transformation Portfolio
-
 This project demonstrates how I approached a cybersecurity program from assessment through remediation planning.
 
 The work follows a simple progression:
 
-``` text
-NIST Assessment
+[Executive Summary]()
+[NIST Assessment]()
       ↓
-Gap Assessment
+[Gap Assessment]()
       ↓
-Risk Methodology
+[Risk Methodology]()
       ↓
-Risk Register
+[Risk Register]()
       ↓
-Risk Treatment Plan
+[Risk Treatment Plan]()
       ↓
-3-Year Security Roadmap
+[3-Year Security Roadmap]()
       ↓
-Executive Summary
+[Executive Summary]()
 ```
 
 The goal was to move beyond identifying security weaknesses and show how those findings can be translated into **business risk, treatment decisions, ownership, technology requirements, budget considerations, and long-term improvement**.
