@@ -26,7 +26,7 @@ Much of my time has also been poured into direct customer service in various rol
 - Develop treatments for those risks
 - Design a 3-year plan to bring their security posture into compliance
 
-### 🔹 ISO 27001 Documentation Audit – Brunel University
+### 🔹 ISO 27001 Documentation Audit – Posting Soon
 
 ---
 
