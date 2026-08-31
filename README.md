@@ -8,7 +8,9 @@ That said:
 
 There aren't always clear answers to security problems, particularly when it comes to continually implementing actionable changing in work environments. This is equally true when communicating with team members, governing bodies, and ensuring that employees can work unimpeded and business goals are met above all of these things. I seek to navigate these communicative roadways to build usable solutions that are built for continuous monitoring with room for working changes as needed.
 
-Technology has always drawn interest from me from age 10, but my early years weren't spent capitalizing on that interest. In recent years I've picked up building computers and working through TryHackMe paths in my spare time. My career experience is full of time spent understanding (or becoming frustrated with) governance and compliance policy from the perspective of the employees it effects. Much of my time has also been poured into direct customer service in various roles. During these times, I had the privilege to learn how to translate corporate jargon into language that customers understand  Active GRC solutions and policies should drive productivity on all levels of a business. This while remaining in compliance with standards to ensure operational security. 
+Technology has always drawn interest from me from age 10, but my early years weren't spent capitalizing on that interest. In recent years I've picked up building computers and working through TryHackMe paths in my spare time. My career experience is full of time spent understanding (or becoming frustrated with) governance and compliance policy from the perspective of the employees it effects. 
+
+Much of my time has also been poured into direct customer service in various roles. During these times, I had the privilege to learn how to translate corporate jargon into language that customers understand  Active GRC solutions and policies should drive productivity on all levels of a business. This while remaining in compliance with standards to ensure operational security. 
 
 [A Bit More About Me](https://github.com/jphumphries/jphumphries/edit/main/AboutMe.md)
 
