@@ -6,34 +6,45 @@ The work follows a simple progression:
 
 [Executive Summary](https://github.com/jphumphries/jphumphries/blob/274b305e42ab6eb285f996a53eaa1c88efc6082f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md)
 
-      ↓
-
 [NIST Assessment](https://github.com/jphumphries/jphumphries/blob/3b001d67cf1737432e24a3a49dfb61c54fd81988/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 - [Assement Summary]()
 - [NIST Assessment(Github Version]()
 
-      ↓
-      
 [Gap Assessment]()
-
-      ↓
 
 [Risk Methodology]()
 
-      ↓
-
 [Risk Register]()
 
-      ↓
-
 [Risk Treatment Plan]()
-
-      ↓
 
 [3-Year Security Roadmap]()
 
 
 The goal was to move beyond identifying security weaknesses and show how those findings can be translated into **business risk, treatment decisions, ownership, technology requirements, budget considerations, and long-term improvement**.
+
+------------------------------------------------------------------------
+
+## Core Principles Addressed
+
+The larger issue is the need for a coordinated security program supported by:
+
+- Clear ownership
+- Executive sponsorship
+- Formal risk management
+- Defined policies and standards
+- Reliable asset visibility
+- Strong IAM
+- Managed endpoints
+- Data protection
+- Centralized monitoring
+- Incident-response capability
+- Third-party risk management
+- Evidence-based control validation
+
+The roadmap therefore follows this principle:
+
+> **Build the security program first. Add technology where it supports the program. Validate that the resulting controls actually reduce risk.**
 
 ------------------------------------------------------------------------
 
@@ -81,8 +92,6 @@ The gap assessment connects:
 
 
 Current State → Target State → Maturity Gap → Risk → Recommended Action
-
-```
 
 It also assigns priority, ownership, and a proposed roadmap phase.
 
@@ -223,57 +232,9 @@ Strategic planning, sequencing, staffing, technology selection, budgeting, and l
 
 ------------------------------------------------------------------------
 
-## Core Project Principle
-
-The central conclusion of this project is that Oscorp's largest cybersecurity problem is **not the absence of a particular security product**.
-
-The larger issue is the need for a coordinated security program supported by:
-
-- Clear ownership
-- Executive sponsorship
-- Formal risk management
-- Defined policies and standards
-- Reliable asset visibility
-- Strong IAM
-- Managed endpoints
-- Data protection
-- Centralized monitoring
-- Incident-response capability
-- Third-party risk management
-- Evidence-based control validation
-
-The roadmap therefore follows this principle:
-
-> **Build the security program first. Add technology where it supports the program. Validate that the resulting controls actually reduce risk.**
-
-------------------------------------------------------------------------
-
-## Skills Demonstrated
-
-This project includes practical work in:
-
-- NIST-based cybersecurity assessment
-- NIST CSF program planning
-- Governance, Risk, and Compliance
-- Gap and maturity assessment
-- Risk methodology and scoring
-- Risk-register development
-- Risk treatment planning
-- Third-Party Risk Management
-- IAM planning
-- Incident-response planning
-- Security monitoring strategy
-- Technology evaluation
-- Budget and staffing planning
-- Control testing and evidence requirements
-- Executive cybersecurity communication
-- ISO 27001 readiness planning
-
-------------------------------------------------------------------------
-
 ## Project Notes
 
-This is a portfolio scenario, so several assumptions were required.
+In this portfolio scenario, some assumptions were necessary to build this out.
 
 - Approximately **250 users** were used for budget modeling.
 - Technology recommendations represent proposed solutions, not completed procurement.
@@ -282,13 +243,3 @@ This is a portfolio scenario, so several assumptions were required.
 - Production implementation would require additional architecture, legal, privacy, procurement, and business review.
 
 ------------------------------------------------------------------------
-
-## Recommended Review Path
-
-For a quick review:
-
-**Executive Summary → Risk Register → Risk Treatment Plan → 3-Year Roadmap**
-
-For a deeper review:
-
-**NIST Assessment → Gap Assessment → Risk Methodology → Risk Register → Risk Treatment Plan → Roadmap → Executive Summary**
