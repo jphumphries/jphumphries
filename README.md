@@ -48,8 +48,7 @@ Much of my time has also been poured into direct customer service in various rol
 ## 📈 What I’m Currently Working On
 
 - Preparing for CompTIA Security+ Certification
-- Understanding AI integration and the unique challenges that come leveraging these supplementary tools in practical use cases
-- Developing hands-on GRC and audit-focused deliverables (risk registers, audit reports, control mappings)  
+- Understanding AI integration and the unique challenges that come leveraging these supplementary tools in practical use cases 
 - Strengthening expertise in risk-based decision making
 - Keeping track of real-world situations and drawing on experiences from myself and others to understand why certain policies and procedures are needed
 ---
@@ -61,4 +60,4 @@ Much of my time has also been poured into direct customer service in various rol
 
 ---
 
-⭐ *I'm definitely actively seeking opportunities in Compliance Auditing, Risk Management, and GRC where I can contribute to strengthening security posture and driving compliance goals.*
+⭐ *I'm actively seeking opportunities in Compliance Auditing, Risk Management, and GRC where I can contribute to strengthening security posture and driving compliance goals.*
