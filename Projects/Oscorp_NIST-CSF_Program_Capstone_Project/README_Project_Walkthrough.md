@@ -6,9 +6,9 @@ The work follows a simple progression:
 
 [Executive Summary](https://github.com/jphumphries/jphumphries/blob/274b305e42ab6eb285f996a53eaa1c88efc6082f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md)
 
-[NIST Assessment](https://github.com/jphumphries/jphumphries/blob/3b001d67cf1737432e24a3a49dfb61c54fd81988/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
-- [Assement Summary](https://github.com/jphumphries/jphumphries/blob/15e8c573772cb61c201f764c3e84e7212e138866/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md)
-- [NIST Assessment(Github Version](https://github.com/jphumphries/jphumphries/blob/11d77fe279d1f10319422534b63692e7f4e29e5c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-full-tables.md)
+[NIST Assessment Summary](https://github.com/jphumphries/jphumphries/blob/15e8c573772cb61c201f764c3e84e7212e138866/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md)
+- [NIST Assessment Workbook (Github Version)](https://github.com/jphumphries/jphumphries/blob/11d77fe279d1f10319422534b63692e7f4e29e5c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-full-tables.md)
+- [NIST Assessment Workbook (Excel File)](https://github.com/jphumphries/jphumphries/blob/3b001d67cf1737432e24a3a49dfb61c54fd81988/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
 [Gap Assessment]()
 
