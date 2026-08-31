@@ -2,41 +2,6 @@
 
 This project demonstrates how I approached a cybersecurity program from assessment through remediation planning.
 
-The work follows a simple progression:
-
-[Executive Summary](https://github.com/jphumphries/jphumphries/blob/274b305e42ab6eb285f996a53eaa1c88efc6082f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md)
-
-      ↓
-
-[NIST Assessment](https://github.com/jphumphries/jphumphries/blob/3b001d67cf1737432e24a3a49dfb61c54fd81988/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
-- [Assement Summary]()
-- [NIST Assessment(Github Version]()
-
-      ↓
-      
-[Gap Assessment]()
-
-      ↓
-
-[Risk Methodology]()
-
-      ↓
-
-[Risk Register]()
-
-      ↓
-
-[Risk Treatment Plan]()
-
-      ↓
-
-[3-Year Security Roadmap]()
-
-
-The goal was to move beyond identifying security weaknesses and show how those findings can be translated into **business risk, treatment decisions, ownership, technology requirements, budget considerations, and long-term improvement**.
-
-This repository documents a complete cybersecurity improvement program for Oscorp, moving from initial assessment through risk analysis, treatment planning, and a three-year security roadmap.
-
 The project follows this sequence:
 
 ``` text
