@@ -4,7 +4,7 @@ This project demonstrates how I approached a cybersecurity program from assessme
 
 The work follows a simple progression:
 
-[Executive Summary]()
+[Executive Summary](https://github.com/jphumphries/jphumphries/blob/274b305e42ab6eb285f996a53eaa1c88efc6082f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md)
 [NIST Assessment]()
       ↓
 [Gap Assessment]()
