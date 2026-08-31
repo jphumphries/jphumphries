@@ -9,6 +9,8 @@ The work follows a simple progression:
       ↓
 
 [NIST Assessment](https://github.com/jphumphries/jphumphries/blob/3b001d67cf1737432e24a3a49dfb61c54fd81988/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
+- [Assement Summary]()
+- [NIST Assessment(Github Version]()
 
       ↓
       
@@ -30,18 +32,14 @@ The work follows a simple progression:
 
 [3-Year Security Roadmap]()
 
-      
-```
 
 The goal was to move beyond identifying security weaknesses and show how those findings can be translated into **business risk, treatment decisions, ownership, technology requirements, budget considerations, and long-term improvement**.
 
 ------------------------------------------------------------------------
 
-## 5-Minute Project Walkthrough
-
 ### 1. Executive Summary
 
-**Start here:** [Executive Summary](ADD-LINK-HERE)
+**Start here:** [Executive Summary](https://github.com/jphumphries/jphumphries/blob/274b305e42ab6eb285f996a53eaa1c88efc6082f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md))
 
 Provides the high-level business view of the project, including:
 
@@ -50,11 +48,8 @@ Provides the high-level business view of the project, including:
 - Risk treatment strategy
 - Three-year transformation plan
 - Technology direction
-- Financial impact
+- Potential Financial impact
 - Expected target state
-
-**What this demonstrates:**  
-The ability to translate technical and GRC findings into language that senior leadership can use for decision-making.
 
 ------------------------------------------------------------------------
 
@@ -62,10 +57,9 @@ The ability to translate technical and GRC findings into language that senior le
 
 **Review:** [NIST Assessment Summary](ADD-LINK-HERE)  
 **Detailed evidence:** [Full Assessment Tables](ADD-LINK-HERE)
+**Full Assessment:** [NIST 800-53 Assessment](https://github.com/jphumphries/jphumphries/blob/3b001d67cf1737432e24a3a49dfb61c54fd81988/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
-The assessment identified weaknesses across **Identify, Protect, Detect, Respond, and Recover**.
-
-Key concerns included:
+The assessment identified weaknesses across the NIST 800-53 categories, key concerns included:
 
 - Undefined cybersecurity governance
 - Incomplete asset and software visibility
@@ -74,9 +68,6 @@ Key concerns included:
 - No mature centralized detection capability
 - Immature incident response
 - Inconsistent third-party risk management
-
-**What this demonstrates:**  
-Current-state assessment, control review, documentation of findings, and identification of security weaknesses.
 
 ------------------------------------------------------------------------
 
@@ -88,8 +79,9 @@ The assessment findings were consolidated into **34 security gaps** and compared
 
 The gap assessment connects:
 
-``` text
+
 Current State → Target State → Maturity Gap → Risk → Recommended Action
+
 ```
 
 It also assigns priority, ownership, and a proposed roadmap phase.
