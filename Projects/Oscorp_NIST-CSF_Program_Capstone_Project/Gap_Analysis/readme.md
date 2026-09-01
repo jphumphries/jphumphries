@@ -1,6 +1,6 @@
 ### Gap Assessment
 
-**Review:** [Gap Assessment](ADD-LINK-HERE)
+**Summary:** [Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
 The assessment findings were consolidated into **34 security gaps** and compared against a defined target state.
 
