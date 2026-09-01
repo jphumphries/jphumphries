@@ -4,17 +4,26 @@ This project demonstrates how I approached a cybersecurity program from assessme
 
 The work follows a simple progression:
 
-[Executive Summary](https://github.com/jphumphries/jphumphries/blob/274b305e42ab6eb285f996a53eaa1c88efc6082f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md)
+[Executive Summary](Documents/executive-summary.md)
 
-[NIST Assessment](https://github.com/jphumphries/jphumphries/blob/3b001d67cf1737432e24a3a49dfb61c54fd81988/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
+[Consequences of Inaction]()
 
-- [Assessment Summary](ADD-LINK-HERE)
-- [NIST Assessment — GitHub Version](ADD-LINK-HERE)
-- [Gap Assessment](ADD-LINK-HERE)
-- [Risk Methodology](ADD-LINK-HERE)
-- [Risk Register](ADD-LINK-HERE)
-- [Risk Treatment Plan](ADD-LINK-HERE)
-- [3-Year Security Roadmap](ADD-LINK-HERE)
+[NIST Assessment Summary](Assessment/nist-assessment-summary.md)
+- [NIST Assessment — GitHub Version](Assessment/nist-assessment-full-tables.md)
+- [NIST Assessment — Excel](Assessment/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
+
+[Gap Assessment](Documents/Oscorp_NIST_CSF_Gap_Assessment.xlsx)
+
+[Risk Methodology](ADD-LINK-HERE)
+
+[Risk Register](Risk_Management/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
+
+[Risk Treatment Plan](Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
+
+[3-Year Security Roadmap](Roadmap/Roadmap.md)
+- [Year 1](Documents/Strategy/02-year-1-foundation.md)
+- [Year 2](Documents/Strategy/03-year-2-monitoring-automation.md)
+- [Year 3](Documents/Strategy/04-year-3-optimization-assurance.md)
 
 The goal was to move beyond identifying security weaknesses and show how those findings can be translated into **business risk, treatment decisions, ownership, technology requirements, budget considerations, and long-term improvement**.
 
@@ -43,6 +52,18 @@ The roadmap therefore follows this principle:
 
 ---
 
+## Project Notes
+
+In this portfolio scenario, some assumptions were necessary to build this out.
+
+- Approximately **250 users** were used for budget modeling.
+- Technology recommendations represent proposed solutions, not completed procurement.
+- Vendor and consumption-based pricing should be validated before purchase.
+- Residual-risk values remain estimates until controls are implemented and tested.
+- Production implementation would require additional architecture, legal, privacy, procurement, and business review.
+
+---
+
 ### 1. Executive Summary
 
 **Start here:** [Executive Summary](https://github.com/jphumphries/jphumphries/blob/274b305e42ab6eb285f996a53eaa1c88efc6082f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md)
@@ -61,16 +82,15 @@ Provides the high-level business view of the project, including:
 
 ### 2. NIST Cybersecurity Assessment
 
-**Review:** [NIST Assessment Summary](ADD-LINK-HERE)
+**Summary:** [NIST Assessment Summary](Assessment/nist-assessment-summary.md)
 
-**Detailed evidence:** [Full Assessment Tables](ADD-LINK-HERE)
+**Detailed evidence:** [Full Assessment Tables](Assessment/nist-assessment-full-tables.md)
 
-**Full Assessment:** [NIST 800-53 Assessment](https://github.com/jphumphries/jphumphries/blob/3b001d67cf1737432e24a3a49dfb61c54fd81988/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
+**Full Assessment:** [NIST 800-53 Assessment](Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
 The assessment identified weaknesses across the NIST 800-53 categories. Key concerns included:
 
-- Undefined cybersecurity governance
-- Governance and accountability
+- Undefined cybersecurity governance and accountability
 - Enterprise risk management
 - Asset and software inventory
 - Third-party risk
@@ -84,21 +104,13 @@ The assessment identified weaknesses across the NIST 800-53 categories. Key conc
 
 The purpose of the register is to convert technical deficiencies into **business risk**.
 
-For example:
-
-> Instead of simply stating that Oscorp lacks a SIEM, the risk focuses on how limited centralized monitoring increases the chance that malicious activity could remain undetected.
-
-**What this demonstrates:**
-
-Risk identification, business-impact analysis, ownership, inherent risk, residual risk, and prioritization.
-
 ---
 
 ### 6. Risk Treatment Plan
 
-**Review:** [Risk Treatment Plan](ADD-LINK-HERE)
+[Risk Treatment Plan]((Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
 
-The treatment plan defines how Oscorp should respond to each major risk.
+This defines how Oscorp should respond to each major risk. the logic behind the column names in the register are as follows:
 
 ```text
 Risk
@@ -120,11 +132,7 @@ Control Validation
 Residual Risk
 ```
 
-A risk is not considered treated simply because a tool was purchased or a policy was written. Controls must be **implemented, evidenced, tested, and reassessed**.
-
-**What this demonstrates:**
-
-Risk treatment, remediation planning, control ownership, evidence requirements, and validation.
+No threat will ever be fully eliminated, therefore no risk will be fully eliminated but only managed. Each risk is not considered treated simply because a tool is purchased or a policy was written. Controls must be assessed, implemented, and measured for effectiveness in mitaged the associated risks in the register.
 
 ---
 
