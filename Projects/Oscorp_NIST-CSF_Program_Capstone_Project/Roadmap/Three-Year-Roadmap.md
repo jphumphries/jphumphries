@@ -1,14 +1,9 @@
-# Oscorp 3-Year Risk-Driven Cybersecurity Roadmap
-
-## Project Overview
+# 3-Year Risk-Driven Cybersecurity Roadmap
 
 This repository presents a three-year cybersecurity transformation
 roadmap for Oscorp. It assumes approximately **250 users** for budgeting
 and uses **NIST CSF 2.0** as the forward-looking target framework while
 maintaining traceability to the original NIST-based assessment.
-
-> **People and governance first, foundational controls second,
-> monitoring and automation third, then optimization and assurance.**
 
 ## Roadmap at a Glance
 
@@ -41,23 +36,6 @@ maintaining traceability to the original NIST-based assessment.
                                                   verification
   -----------------------------------------------------------------------
 
-## Repository Structure
-
-``` text
-oscorp-3-year-security-roadmap/
-├── README.md
-└── docs/
-    ├── strategy/
-    │   ├── 01-roadmap-overview.md
-    │   ├── 02-year-1-foundation.md
-    │   ├── 03-year-2-monitoring-automation.md
-    │   └── 04-year-3-optimization-assurance.md
-    ├── staffing/security-team-growth-plan.md
-    ├── technology/security-technology-architecture.md
-    ├── financials/three-year-budget.md
-    └── governance/technology-evaluation-criteria.md
-```
-
 ## Strategic Sequence
 
 ``` text
@@ -78,7 +56,7 @@ Cloud & Data Security Maturity
 Control Testing / Audit / Optimization
 ```
 
-## Core Technology Direction
+## Core Technology Solutions
 
 -   **Microsoft Entra ID** --- IAM, MFA, Conditional Access and
     privileged access
@@ -97,26 +75,13 @@ Control Testing / Audit / Optimization
 
 ## Investment Principle
 
-Before approving a security platform, Oscorp should determine: 1. Which
-Gap IDs does it address? 2. Which Risk IDs does it help mitigate? 3.
-Does it support the associated NIST CSF outcome? 4. Can Oscorp produce
-evidence that the control is effective? 5. What residual risk remains?
+Before approving a security platform, Oscorp should determine: 
+1. Which Gap IDs does it address?
+2. Which Risk IDs does it help mitigate?
+3. Does it support the associated NIST CSF outcome?
+4. Can Oscorp produce evidence that the control is effective?
+5. What residual risk remains?
 
 A platform can support a control environment. It does **not** by itself
 make Oscorp NIST-aligned.
 
-## Portfolio Traceability
-
-``` text
-NIST Assessment
-      ↓
-Gap Assessment
-      ↓
-Risk Assessment Methodology
-      ↓
-Risk Register
-      ↓
-Risk Treatment Plan
-      ↓
-3-Year Cybersecurity Roadmap
-```
