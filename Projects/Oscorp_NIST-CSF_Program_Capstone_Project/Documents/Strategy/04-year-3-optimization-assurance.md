@@ -1,5 +1,5 @@
 # Year 3 | Optimization, Assurance & Audit
-
+Previous: [Year 2 Plan](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/03-year-2-monitoring-automation.md) | [Back to Executive Summary](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md)
 ## Objective
 
 Shift from implementation toward evidence-based assurance.
