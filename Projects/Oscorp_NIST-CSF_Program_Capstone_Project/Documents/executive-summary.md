@@ -1,5 +1,5 @@
 # Oscorp Cybersecurity Program Executive Summary
-Next: [Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
+Next: [Consequences of Inaction](https://github.com/jphumphries/jphumphries/blob/2055f67e61cd4fd6a9de58137092a2fb58a0ff62/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
 
 Working as a consultant for Oscorp revealed weaknesses in business security that are critical to the survival of the business. The most pressing issue at hand was the lack of a proper team in place to construct and run a comprehensive program. Thus, starting with governance structure was key to developing policy and procedures to manage cybersecurity risk across the organization.
 
