@@ -30,7 +30,7 @@ The work follows a simple progression:
 
 The goal was to move beyond identifying security weaknesses and show how those findings can be translated into **business risk, treatment decisions, ownership, technology requirements, and budget considerations**.
 
----
+
 
 ## Core Principles Addressed
 
@@ -53,7 +53,7 @@ The roadmap therefore follows this principle:
 
 > **Build the security program first. Add technology where it supports the program. Validate that the resulting controls actually reduce risk.**
 
----
+
 
 ## Project Notes
 
@@ -65,7 +65,7 @@ In this portfolio scenario, some assumptions were necessary to build this out.
 - Residual-risk values remain estimates until controls are implemented and tested.
 - Production implementation would require additional architecture, legal, privacy, procurement, and business review.
 
----
+
 
 ## Detailed Sections
 
@@ -83,7 +83,7 @@ Provides the high-level business view of the project, including:
 - Potential financial impact
 - Expected target state
 
----
+
 
 ### 2. NIST Cybersecurity Assessment
 
@@ -109,7 +109,7 @@ The assessment identified weaknesses across the NIST 800-53 categories. Key conc
 
 The purpose of the register is to convert technical deficiencies into **business risk**.
 
----
+
 
 ### 3. Gap Assessment
 
@@ -128,7 +128,7 @@ It also assigns priority, ownership, and a proposed roadmap phase.
 **What this demonstrates:**  
 Gap analysis, control maturity assessment, remediation prioritization, and traceability.
 
----
+
 
 ### 4. Risk Assessment Methodology
 
@@ -148,7 +148,7 @@ The project uses a **1–5 likelihood and impact model**:
 **What this demonstrates:**  
 A repeatable approach to risk scoring, prioritization, treatment, ownership, and residual-risk evaluation.
 
----
+
 
 ### 5. Risk Register
 
@@ -173,7 +173,7 @@ The purpose of the register is to convert technical deficiencies into **business
 **What this demonstrates:**  
 Risk identification, business-impact analysis, ownership, inherent risk, residual risk, and prioritization.
 
----
+
 
 ### 6. Risk Treatment Plan
 
@@ -202,8 +202,6 @@ Residual Risk
 ```
 
 No threat will ever be fully eliminated, therefore no risk will be fully eliminated but only managed. Each risk is not considered treated simply because a tool is purchased or a policy was written. Evidence of control implementation and validation is required.
-
----
 
 ### 7. Three-Year Security Roadmap
 
