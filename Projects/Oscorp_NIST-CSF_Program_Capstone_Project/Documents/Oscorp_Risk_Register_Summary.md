@@ -1,5 +1,5 @@
 # Risk Register Summary
-Previous: [Risk Risk Register Summary](https://github.com/jphumphries/jphumphries/blob/175fd1ceac2b639d6b574e73fe6b3a8c9b266439/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md) | Next: [Risk Treatment Plan](https://github.com/jphumphries/jphumphries/blob/175fd1ceac2b639d6b574e73fe6b3a8c9b266439/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_Risk_Treatment_Plan_Summary.md)
+Previous: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md) | Next: [Risk Treatment Plan](https://github.com/jphumphries/jphumphries/blob/175fd1ceac2b639d6b574e73fe6b3a8c9b266439/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_Risk_Treatment_Plan_Summary.md)
 ## Purpose
 
 The Oscorp Risk Register consolidates the cybersecurity assessment and gap findings into **15 enterprise risks**. Its purpose is to translate technical control deficiencies into business risk so management can prioritize treatment, assign ownership, and track the risk that remains after remediation.
