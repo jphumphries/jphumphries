@@ -1,5 +1,5 @@
 # NIST 800-53 Cybersecurity Assessment Summary
-Previous: [Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md) | Next: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
+Previous: [Consequences of Inaction](https://github.com/jphumphries/jphumphries/blob/d3098091c36e9ba702a739505e55a67cf6e05020/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md) | Next: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
 ## Purpose
 
 This document summarizes the five assessment tables in the original workbook and is designed for a GitHub-style repository. Each section provides a short interpretation of the table followed by a Markdown image reference.
