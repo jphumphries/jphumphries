@@ -1,5 +1,5 @@
 # Consequences of Inaction / Risk of Deferral
-
+Previous: [Executive Summary](Documents/executive-summary.md) | Next: [NIST Assessment Summary](Assessment/nist-assessment-summary.md)
 ### Purpose
 
 The cybersecurity gaps identified in Oscorp's assessment are interconnected. Leaving them unresolved does not only preserve today's risk; as the company adds users, systems, vendors, cloud services, and data, several gaps can become harder and more expensive to correct.
