@@ -85,3 +85,5 @@ The Risk Treatment Plan is where Oscorp moves from **identifying risk to activel
 The goal is not to eliminate every cybersecurity risk. It is to reduce material risk to a level management can understand, monitor, and formally accept where appropriate.
 
 > **Assessment Finding → Gap → Business Risk → Treatment → Evidence → Residual Risk → 3-Year Roadmap**
+
+Previous: [Risk Register Summary](https://github.com/jphumphries/jphumphries/blob/175fd1ceac2b639d6b574e73fe6b3a8c9b266439/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md) | Next: [3 Year Security Program Roadmap](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/Three-Year-Roadmap.md)
