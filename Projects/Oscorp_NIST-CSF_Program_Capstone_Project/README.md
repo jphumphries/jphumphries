@@ -10,7 +10,7 @@ The work follows a simple progression:
 
 [NIST Assessment Summary](Assessment/nist-assessment-summary.md)
 - [NIST Assessment — GitHub Version](Assessment/nist-assessment-full-tables.md)
-- [NIST Assessment — Excel](Assessment/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
+- [NIST Assessment — Excel](https://github.com/jphumphries/jphumphries/blob/fe1bb9ae5632d225c9444ee2eb7f5000595c2079/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
 [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
 
