@@ -43,3 +43,5 @@ protection.
 Oscorp should demonstrate defined governance, an active risk process,
 improved inventory, centralized IAM, managed endpoints, foundational
 incident response and documented third-party security processes.
+
+Next Document: [Year 2](Documents/Strategy/03-year-2-monitoring-automation.md)
