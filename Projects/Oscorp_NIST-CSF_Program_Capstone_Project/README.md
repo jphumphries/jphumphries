@@ -17,7 +17,7 @@ The work follows a simple progression:
 [Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
 [Risk Register Summary]([Risk_Management/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx](https://github.com/jphumphries/jphumphries/blob/1148f357d2d30f9c3afe43cdbf5cf3711032d5d1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md))
--[Risk Register - Excel](https://github.com/jphumphries/jphumphries/blob/9fea8765898c35ddf3f5a44439f2c595c92da7a4/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
+- [Risk Register - Excel](https://github.com/jphumphries/jphumphries/blob/9fea8765898c35ddf3f5a44439f2c595c92da7a4/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
 
 [Risk Treatment Plan](Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
 
