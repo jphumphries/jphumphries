@@ -1,4 +1,5 @@
 # Risk Assessment Methodology
+Previous: [NIST Assessment Summary](Assessment/nist-assessment-summary.md) | Next: [Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
 > **Project:** Oscorp Cybersecurity Program  
 > **Framework:** NIST 800-53 Cybersecurity Framework 
@@ -487,3 +488,5 @@ This methodology connects the individual elements of the Oscorp engagement into 
 > **NIST CSF → Current-State Assessment → Control Deficiency → Business Risk → Treatment → Residual Risk → Prioritization → 3-Year Roadmap**
 
 The objective is not simply to determine whether a cybersecurity control passes or fails. The objective is to understand **what the deficiency means to the business, how significant the resulting risk is, what can realistically be done about it, and when that remediation should occur**.
+
+Previous: [NIST Assessment Summary](Assessment/nist-assessment-summary.md) | Next: [Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
