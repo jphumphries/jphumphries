@@ -1,4 +1,4 @@
-# Year 2 --- Monitoring, Detection & Compliance Automation
+# Year 2 | Monitoring, Detection & Compliance Automation
 
 ## SIEM
 
@@ -11,9 +11,9 @@ planning range** until actual ingestion is measured.
 
 ## Security Operations
 
-Add a **Security Analyst II / SOC Analyst**. Evaluate **MDR/MSSP**
-coverage for nights, weekends, holidays and escalation rather than
-assuming five employees can operate a 24×7 SOC.
+- Add a Security Analyst II / SOC Analyst
+- Evaluate MDR/MSSP coverage for nights, weekends, holidays
+  -  Escalation from a 3rd party service instead of hiring a full team to operate a 24×7 SOC.
 
 ## GRC Automation
 
