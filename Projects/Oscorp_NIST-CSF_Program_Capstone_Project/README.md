@@ -202,7 +202,7 @@ No threat will ever be fully eliminated, therefore no risk will be fully elimina
 
 ### 7. Three-Year Security Roadmap
 
-**Review:** [3-Year Security Roadmap](ADD-LINK-HERE)
+**Review:** [3-Year Security Roadmap]()
 
 The roadmap converts the treatment plan into a phased security program.
 
@@ -244,10 +244,10 @@ Strategic planning, sequencing, staffing, technology selection, budgeting, and l
 - [Year 1 — Foundation](ADD-LINK-HERE)
 - [Year 2 — Monitoring & Automation](ADD-LINK-HERE)
 - [Year 3 — Optimization & Assurance](ADD-LINK-HERE)
-- [Security Team Growth Plan](ADD-LINK-HERE)
-- [Security Technology Architecture](ADD-LINK-HERE)
-- [Technology Evaluation Criteria](ADD-LINK-HERE)
-- [Three-Year Budget](ADD-LINK-HERE)
+- [Security Team Growth Plan](https://github.com/jphumphries/jphumphries/blob/a13e8c5f092d4822d1a07dfca43ea2e8f240280f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/staffing/security-team-growth-plan.md)
+- [Security Technology Architecture](https://github.com/jphumphries/jphumphries/blob/a13e8c5f092d4822d1a07dfca43ea2e8f240280f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/technology/security-technology-architecture.md)
+- [Technology Evaluation Criteria](https://github.com/jphumphries/jphumphries/blob/a13e8c5f092d4822d1a07dfca43ea2e8f240280f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/governance/technology-evaluation-criteria.md)
+- [Three-Year Budget](https://github.com/jphumphries/jphumphries/blob/a13e8c5f092d4822d1a07dfca43ea2e8f240280f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/financials/three-year-budget.md)
 
 ---
 
