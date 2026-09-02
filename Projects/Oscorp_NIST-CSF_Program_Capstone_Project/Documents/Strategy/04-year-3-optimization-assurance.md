@@ -1,4 +1,4 @@
-# Year 3 --- Optimization, Assurance & Audit
+# Year 3 - Optimization, Assurance & Audit
 
 ## Objective
 
