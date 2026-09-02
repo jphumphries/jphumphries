@@ -4,6 +4,10 @@
 
 With experience across different fields I believe I can contribute as a part of a team in identifying weaknesses in organizational security posture to developing practical, business-aligned strategies to reduce risk and achieve compliance.
 
+There aren't always clear answers to security problems, particularly when it comes to continually implementing actionable changing in work environments. This is equally true when communicating with team members, governing bodies, and ensuring that employees can work unimpeded and business goals are met above all of these things. I seek to navigate these communicative roadways to build usable solutions that are built for continuous monitoring with room for working changes as needed.
+
+Much of my time has also been poured into direct customer service in various roles. During these times, I had the privilege to learn how to translate corporate jargon into language that customers understand. Active GRC solutions should enable growth & productivity while remaining in compliance with standards to ensure operational security. 
+
 [A Bit More About Me](https://github.com/jphumphries/jphumphries/edit/main/AboutMe.md)
 
 ---
