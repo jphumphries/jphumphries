@@ -1,4 +1,4 @@
-# Year 1 --- Foundational Governance & Protection
+# Year 1 | Foundational Governance & Protection
 
 ## Objective
 
