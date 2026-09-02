@@ -44,48 +44,6 @@ The plan gives the strongest management attention to these Critical-priority ris
 
 ------------------------------------------------------------------------
 
-## Treatment Priorities by Phase
-
-### Year 1 — Build the Foundation
-
-Primary focus:
-
-- Establish cybersecurity leadership and governance.
-- Formalize risk management and risk ownership.
-- Improve asset, software, SaaS, and data-flow visibility.
-- Strengthen IAM, least privilege, MFA, Conditional Access, and privileged access.
-- Improve endpoint and data protection.
-- Establish third-party risk management.
-- Define logging requirements.
-- Build a foundational incident-response capability.
-
-### Year 2 — Expand Detection and Investigation
-
-Primary focus:
-
-- Centralize priority logs.
-- Implement Microsoft Sentinel in phases.
-- Define detection thresholds, triage, and escalation.
-- Expand security operations and/or MDR/MSSP support.
-- Establish investigation and evidence-handling procedures.
-- Retain specialist digital-forensics capability.
-- Continue improving secure configuration, SDLC, DLP, and third-party monitoring.
-
-### Year 3 — Validate and Improve
-
-Primary focus:
-
-- Control-effectiveness testing.
-- Continuous monitoring.
-- Internal audit.
-- Vulnerability and cloud-security validation.
-- Incident-response and recovery exercises.
-- Third-party reassessment.
-- Remediation verification.
-- Residual-risk reassessment.
-
-------------------------------------------------------------------------
-
 ## Ownership and Evidence
 
 Each treatment should have a defined **treatment owner**, executive or risk sponsor, supporting roles, implementation window, required resources, evidence of completion, and validation cadence.
