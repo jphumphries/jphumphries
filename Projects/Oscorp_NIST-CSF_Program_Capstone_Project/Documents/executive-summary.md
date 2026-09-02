@@ -1,5 +1,6 @@
 # Oscorp Cybersecurity Program 
 ## Executive Summary
+Next: [Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
 
 Working as a consultant for Oscorp revealed weaknesses in business security that are critical to the survival of the business. The most pressing issue at hand was the lack of a proper team in place to construct and run a comprehensive program. Thus, starting with governance structure was key to developing policy and procedures to manage cybersecurity risk across the organization.
 
@@ -251,3 +252,5 @@ Successful execution of this roadmap should move Oscorp from a largely reactive 
 Long-term success will depend on continued executive sponsorship, clearly assigned risk ownership, appropriate funding, regular control testing, and continued reassessment as Oscorp’s business, technology, and threat environment change.
 
 Ultimately, the goal of the program is not simply to meet a framework or purchase security tools. It is to give Oscorp a sustainable process for **understanding cybersecurity risk, making informed decisions about that risk, and protecting the business as it continues to develop.**
+
+Next: [Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
