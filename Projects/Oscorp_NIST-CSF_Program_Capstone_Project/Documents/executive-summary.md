@@ -95,7 +95,7 @@ The same principle applies to governance and compliance platforms. These systems
 
 ## Three-Year Cybersecurity Transformation
 
-### Year 1 — Establish the Foundation
+## Year 1 — Establish the Foundation
 
 The first year should focus primarily on building the cybersecurity function and addressing foundational weaknesses.
 
@@ -118,7 +118,7 @@ Microsoft Entra ID, Intune, and Defender are proposed as important components of
 The objective at the end of Year 1 is not simply to have new software deployed. Oscorp should be able to demonstrate that cybersecurity responsibilities are assigned, risks are actively managed, important assets are known, access is better controlled, endpoints are managed, and personnel understand how to respond to cybersecurity incidents.
 
 
-### Year 2 — Improve Detection and Automation
+## Year 2 — Improve Detection and Automation
 
 After the foundational controls are established, Year 2 should focus on monitoring, detection, incident investigation, data protection, and appropriate compliance automation.
 
@@ -137,7 +137,7 @@ Year 2 is also the proposed point for introducing a GRC automation platform. Dra
 Microsoft Purview should also be evaluated to improve data classification, information protection, auditing, and Data Loss Prevention.
 
 
-### Year 3 — Optimize and Validate
+## Year 3 — Optimize and Validate
 
 By Year 3, the cybersecurity program should begin moving from implementation toward validation and continuous improvement.
 
