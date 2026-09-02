@@ -1,6 +1,6 @@
 # Oscorp Cybersecurity Program
 
-This project demonstrates how I approached a cybersecurity program from assessment through remediation planning.
+This project demonstrates how I approached the design of a cybersecurity program from assessment based on an initial [NIST 800-53 assessment](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md).
 
 The work follows a simple progression:
 
