@@ -16,10 +16,11 @@ The work follows a simple progression:
 
 [Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
-[Risk Register Summary]([Risk_Management/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx](https://github.com/jphumphries/jphumphries/blob/1148f357d2d30f9c3afe43cdbf5cf3711032d5d1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md))
+[Risk Register Summary](https://github.com/jphumphries/jphumphries/blob/1148f357d2d30f9c3afe43cdbf5cf3711032d5d1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md)
 - [Risk Register - Excel](https://github.com/jphumphries/jphumphries/blob/9fea8765898c35ddf3f5a44439f2c595c92da7a4/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
 
-[Risk Treatment Plan](Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
+[Risk Treatment Plan](https://github.com/jphumphries/jphumphries/blob/9e0e8b0db4865f55d9501dab7db99c1f967961e7/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_Risk_Treatment_Plan_Summary.md)
+- [Risk Treatment Plan Excel](Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
 
 [3-Year Security Roadmap](Roadmap/Roadmap.md)
 - [Year 1](Documents/Strategy/02-year-1-foundation.md)
