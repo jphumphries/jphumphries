@@ -1,5 +1,5 @@
 # Year 2 | Monitoring, Detection & Compliance Automation
-
+Previous: [Year 1 Plan](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/02-year-1-foundation.md) | Next: [Year 3 Plan](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/04-year-3-optimization-assurance.md)
 ## SIEM
 
 Introduce **Microsoft Sentinel** after Oscorp defines log sources,
