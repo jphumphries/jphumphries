@@ -14,48 +14,27 @@ maintaining traceability to the original NIST-based assessment.
 
 | Phase                  | Focus                   | Primary Outcomes       |
 | -----------------------| ----------------------- | -----------------------|
-|  First 90 Days         | Leadership & planning   | Hire security leader,  |
+|  **First 90 Days**     | Leadership & planning   | Hire security leader,  |
 |                        |                         | establish ownership, |
 |                        |                         | validate requirements |
 |                        |                         | and sequence |
 |                        |                         | investments |
-|                        |                         | |
-|  Year 1                | Foundational governance | Build team, governance, |
+|  **Year 1**            | Foundational governance | Build team, governance, |
 |                        | & protection            | risk management, IAM, |
 |                        |                         | endpoint protection, |
 |                        |                         | inventory and |
 |                        |                         | incident-response |
-|                        |                         | foundation |
-|                        |                         |                       | 
-|  Year 2                | Monitoring, detection & | SIEM, expanded security |
+|                        |                         | foundation | 
+|  **Year 2**            | Monitoring, detection & | SIEM, expanded security |
 |                        |  automation             | operations, MDR/MSSP, |
 |                        |                         | GRC automation, DLP and |
 |                        |                         | recurring training |
-|                        |                         |
-|  Year 3                |  Optimization &         | Continuous monitoring, |
+|  **Year 3**            |  Optimization &         | Continuous monitoring, |
 |                        |  assurance              | testing, CSPM, |
 |                        |                         | vulnerability |
 |                        |                         | management, exercises, |
 |                        |                         | audit and remediation |
 |                        |                         | verification |
-|  -----------------------------------------------------------------------
-
-## Repository Structure
-
-``` text
-oscorp-3-year-security-roadmap/
-├── README.md
-└── docs/
-    ├── strategy/
-    │   ├── 01-roadmap-overview.md
-    │   ├── 02-year-1-foundation.md
-    │   ├── 03-year-2-monitoring-automation.md
-    │   └── 04-year-3-optimization-assurance.md
-    ├── staffing/security-team-growth-plan.md
-    ├── technology/security-technology-architecture.md
-    ├── financials/three-year-budget.md
-    └── governance/technology-evaluation-criteria.md
-```
 
 ## Strategic Sequence
 
