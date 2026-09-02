@@ -4,7 +4,7 @@
 
 This converts the treatment plan into a phased security program.
 
-[Year 1](Documents/Strategy/02-year-1-foundation.md) — Foundation
+[Year 1](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/02-year-1-foundation.md) — Foundation
 - Establish cybersecurity leadership
 - Build the initial security team
 - Formalize governance and risk management
