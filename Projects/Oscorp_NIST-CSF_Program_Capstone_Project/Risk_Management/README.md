@@ -1,5 +1,7 @@
 # Risk Treatment Plan Summary
 
+Download [Excel File](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Plan.xlsx)
+
 The plan covers **15 consolidated cybersecurity risks** and connects the Risk Register to the three-year security roadmap.
 
 > **Risk → Related Gaps → Treatment Objective → Treatment Actions → Owner → Evidence → Control Validation → Residual Risk**
