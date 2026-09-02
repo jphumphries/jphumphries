@@ -106,6 +106,74 @@ The purpose of the register is to convert technical deficiencies into **business
 
 ---
 
+### 3. Gap Assessment
+
+**Review:** [Gap Assessment](ADD-LINK-HERE)
+
+The assessment findings were consolidated into **34 security gaps** and compared against a defined target state.
+
+The gap assessment connects:
+
+``` text
+Current State → Target State → Maturity Gap → Risk → Recommended Action
+```
+
+It also assigns priority, ownership, and a proposed roadmap phase.
+
+**What this demonstrates:**  
+Gap analysis, control maturity assessment, remediation prioritization, and traceability.
+
+------------------------------------------------------------------------
+
+### 4. Risk Assessment Methodology
+
+**Review:** [Risk Assessment Methodology](ADD-LINK-HERE)
+
+The project uses a **1–5 likelihood and impact model**:
+
+> **Risk Score = Likelihood × Impact**
+
+| Score | Rating   |
+|------:|----------|
+|   1–4 | Low      |
+|   5–9 | Moderate |
+| 10–16 | High     |
+| 17–25 | Critical |
+
+**What this demonstrates:**  
+A repeatable approach to risk scoring, prioritization, treatment, ownership, and residual-risk evaluation.
+
+------------------------------------------------------------------------
+
+### 5. Risk Register
+
+**Review:** [Risk Register](ADD-LINK-HERE)
+
+The assessment and gap findings were consolidated into **15 enterprise cybersecurity risks**, including:
+
+- Governance and accountability
+- Enterprise risk management
+- Asset and software inventory
+- Third-party risk
+- Access control
+- Data security
+- Security monitoring
+- Endpoint security
+- Incident response
+- Digital forensics
+- Recovery and crisis communications
+
+The purpose of the register is to convert technical deficiencies into **business risk**.
+
+For example:
+
+> Instead of simply stating that Oscorp lacks a SIEM, the risk focuses on how limited centralized monitoring increases the chance that malicious activity could remain undetected.
+
+**What this demonstrates:**  
+Risk identification, business-impact analysis, ownership, inherent risk, residual risk, and prioritization.
+
+---
+
 ### 6. Risk Treatment Plan
 
 [Risk Treatment Plan]((Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
