@@ -48,7 +48,7 @@ There exists no standard with which to assess the security value of Third-party 
 
 The goal of the proposed program is therefore not to replace everything Oscorp currently does, but to organize existing strengths within a more complete cybersecurity program.
 
-## [Risk Assessment Results](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md)
+## [Risk Assessment Results]([Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md](https://github.com/jphumphries/jphumphries/blob/dfbf01ede97633e355a3045749b3fef6ce939bd2/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md))
 
 The assessment findings were consolidated into 15 cybersecurity risks within the Oscorp Risk Register. These risks represent potential business exposure rather than simply highlighting individual technical deficiencies.
 
