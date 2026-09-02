@@ -12,9 +12,9 @@ The work follows a simple progression:
 - [NIST Assessment — GitHub Version](Assessment/nist-assessment-full-tables.md)
 - [NIST Assessment — Excel](Assessment/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
-[Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
+[Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
 
-[Risk Methodology](ADD-LINK-HERE)
+[Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
 [Risk Register](Risk_Management/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
 
