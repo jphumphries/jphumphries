@@ -1,4 +1,4 @@
-# Oscorp Risk Treatment Plan Summary
+# Risk Treatment Plan Summary
 
 ## Purpose
 
