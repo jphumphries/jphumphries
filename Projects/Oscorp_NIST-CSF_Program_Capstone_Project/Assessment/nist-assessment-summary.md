@@ -79,4 +79,4 @@ The five functions show a consistent pattern: Oscorp has several isolated contro
 
 The assessment therefore supports a phased program rather than a tool-first response: establish accountable leadership and risk processes, improve asset and identity control, strengthen endpoints and data protection, build incident response, centralize monitoring, and then move toward continuous control validation and improvement.
 
-Previous: [Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md) | Next: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
+Previous: [Consequences of Inaction](https://github.com/jphumphries/jphumphries/blob/d3098091c36e9ba702a739505e55a67cf6e05020/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md) | Next: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
