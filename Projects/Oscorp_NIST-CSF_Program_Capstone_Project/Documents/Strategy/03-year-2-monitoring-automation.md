@@ -32,4 +32,4 @@ capabilities after data-classification requirements are established.
 Establish recurring security-awareness training at least annually and
 update it when material threats or risks change.
 
-[Year 3](Documents/Strategy/04-year-3-optimization-assurance.md)
+Next Document: [Year 3](Documents/Strategy/04-year-3-optimization-assurance.md)
