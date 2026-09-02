@@ -48,7 +48,7 @@ There exists no standard with which to assess the security value of Third-party 
 
 The goal of the proposed program is therefore not to replace everything Oscorp currently does, but to organize existing strengths within a more complete cybersecurity program.
 
-## [Risk Assessment Results]([Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md](https://github.com/jphumphries/jphumphries/blob/dfbf01ede97633e355a3045749b3fef6ce939bd2/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md))
+## [Risk Assessment Results](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md)
 
 The assessment findings were consolidated into 15 cybersecurity risks within the Oscorp Risk Register. These risks represent potential business exposure rather than simply highlighting individual technical deficiencies.
 
@@ -74,7 +74,7 @@ These areas hold an intrinsic connection to asset visibility, for if the company
 
 This lends credibility to the decision to focus on building up a cybersecurity program overall as opposed to simply grafting new tools and security products.
 
-## Risk Treatment Strategy
+## [Risk Treatment Strategy](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_Risk_Treatment_Plan_Summary.md)
 
 The Risk Treatment Plan establishes how Oscorp should respond to the risks identified during the assessment.
 
@@ -94,7 +94,7 @@ The same principle applies to governance and compliance platforms. These systems
 
 ---
 
-## [Three-Year Plan for Cybersecurity Program]()
+## [Three-Year Plan for Cybersecurity Program](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/Three-Year-Roadmap.md)
 
 ## Year 1 — Establish the Foundation
 
@@ -252,4 +252,4 @@ Long-term success will depend on continued executive sponsorship, clearly assign
 
 Ultimately, the goal of the program is not simply to meet a framework or purchase security tools. It is to give Oscorp a sustainable process for **understanding cybersecurity risk, making informed decisions about that risk, and protecting the business as it continues to develop.**
 
-Next: [Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
+Next: [Consequences of Inaction](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
