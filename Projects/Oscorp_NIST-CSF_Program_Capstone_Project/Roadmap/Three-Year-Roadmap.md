@@ -12,34 +12,33 @@ maintaining traceability to the original NIST-based assessment.
 
 ## Roadmap at a Glance
 
-  -----------------------------------------------------------------------
-  Phase                   Focus                   Primary Outcomes
-  ----------------------- ----------------------- -----------------------
-  First 90 Days           Leadership & planning   Hire security leader,
-                                                  establish ownership,
-                                                  validate requirements
-                                                  and sequence
-                                                  investments
-
-  Year 1                  Foundational governance Build team, governance,
-                          & protection            risk management, IAM,
-                                                  endpoint protection,
-                                                  inventory and
-                                                  incident-response
-                                                  foundation
-
-  Year 2                  Monitoring, detection & SIEM, expanded security
-                          automation              operations, MDR/MSSP,
-                                                  GRC automation, DLP and
-                                                  recurring training
-
-  Year 3                  Optimization &          Continuous monitoring,
-                          assurance               testing, CSPM,
-                                                  vulnerability
-                                                  management, exercises,
-                                                  audit and remediation
-                                                  verification
-  -----------------------------------------------------------------------
+| Phase                  | Focus                   | Primary Outcomes       |
+| -----------------------| ----------------------- | -----------------------|
+|  First 90 Days         | Leadership & planning   | Hire security leader,  |
+|                        |                         | establish ownership, |
+|                        |                         | validate requirements |
+|                        |                         | and sequence |
+|                        |                         | investments |
+|                        |                         | |
+|  Year 1                | Foundational governance | Build team, governance, |
+|                        | & protection            | risk management, IAM, |
+|                        |                         | endpoint protection, |
+|                        |                         | inventory and |
+|                        |                         | incident-response |
+|                        |                         | foundation |
+|                        |                         |                       | 
+|  Year 2                | Monitoring, detection & | SIEM, expanded security |
+|                        |  automation             | operations, MDR/MSSP, |
+|                        |                         | GRC automation, DLP and |
+|                        |                         | recurring training |
+|                        |                         |
+|  Year 3                |  Optimization &         | Continuous monitoring, |
+|                        |  assurance              | testing, CSPM, |
+|                        |                         | vulnerability |
+|                        |                         | management, exercises, |
+|                        |                         | audit and remediation |
+|                        |                         | verification |
+|  -----------------------------------------------------------------------
 
 ## Repository Structure
 
