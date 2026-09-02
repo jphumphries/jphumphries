@@ -1,10 +1,10 @@
 ### Three-Year Security Roadmap Summary
 
-[Full 3 Year Cybersecurity Program Plan]()
+[Full 3 Year Cybersecurity Program Plan](Roadmap/README_Project_Walkthrough.md)
 
 This converts the treatment plan into a phased security program.
 
-[Year 1]() — Foundation
+[Year 1](Documents/Strategy/02-year-1-foundation.md) — Foundation
 - Establish cybersecurity leadership
 - Build the initial security team
 - Formalize governance and risk management
@@ -12,14 +12,14 @@ This converts the treatment plan into a phased security program.
 - Strengthen IAM and endpoint security
 - Establish incident-response capability
 
-[Year 2]() — Detection & Automation
+[Year 2](Documents/Strategy/03-year-2-monitoring-automation.md) — Detection & Automation
 - Implement centralized logging and Microsoft Sentinel
 - Expand security operations
 - Add MDR/MSSP support
 - Introduce GRC automation
 - Improve DLP and security-awareness training
 
-[Year 3]() — Assurance & Optimization
+[Year 3](Documents/Strategy/04-year-3-optimization-assurance.md) — Assurance & Optimization
 - Test control effectiveness
 - Improve vulnerability and cloud-security management
 - Mature privileged access
