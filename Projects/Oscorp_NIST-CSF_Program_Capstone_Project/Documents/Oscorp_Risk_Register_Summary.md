@@ -1,4 +1,6 @@
-# Oscorp Risk Register Summary
+# Risk Register Summary
+
+[Download Excel File](https://github.com/jphumphries/jphumphries/blob/37a103e243a5a2d821f91923ef6b8ee6ed1225aa/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
 
 ## Purpose
 
