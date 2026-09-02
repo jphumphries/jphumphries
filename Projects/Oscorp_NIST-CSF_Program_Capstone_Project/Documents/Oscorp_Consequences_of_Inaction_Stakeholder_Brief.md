@@ -1,6 +1,4 @@
-# Oscorp Cybersecurity Program
-
-## Consequences of Inaction / Risk of Deferral
+# Consequences of Inaction / Risk of Deferral
 
 ### Stakeholder Purpose
 
@@ -10,9 +8,43 @@ This document summarizes the **business consequences of delaying treatment**. It
 
 ------------------------------------------------------------------------
 
+# Risk of Deferral
+
+| Timespan           | Business Exposure                                                                                                                               |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **0-6 Months**     | Unclear ownership, excessive access, incomplete inventories, weak incident preparedness, and inconsistent risk decisions remain active.         |
+| **6-18 Months**    | Growth in users, vendors, cloud services, and data can make existing gaps more difficult to manage and increase implementation complexity.      |
+| **18-36 Months**   | Technical debt, unresolved risk, monitoring gaps, vendor dependency, and control-validation requirements can accumulate across the environment. |
+| **Beyond 3 Years** | Oscorp risks maintaining a reactive model in which security improvements are driven by incidents rather than planned risk management.           |
+
+------------------------------------------------------------------------
+
+## Management Should Decide
+
+Not every risk will be eliminated nor does every gap requires immediate remediation. Management can choose which risks to:
+
+- **Mitigate** - implement controls that reduce likelihood or impact.
+- **Transfer** - shift part of the exposure through qualified service providers or insurance.
+- **Avoid** - stop the activity creating unacceptable exposure.
+- **Accept** - formally retain the risk when additional treatment is not justified.
+
+Deferral may lead to unknown risk acceptance through ignoring risk altogether.
+
+Any material risk that is deferred should have:
+
+- A named risk owner.
+- Business justification for the delay.
+- Current risk level.
+- Expected consequences.
+- Compensating controls, where available.
+- Approval authority.
+- A review or expiration date.
+
+------------------------------------------------------------------------
+
 ## Executive View
 
-Oscorp's largest concern is not the absence of one security product. The larger issue is that weaknesses in governance, asset visibility, access control, data protection, monitoring, incident response, and third-party oversight can reinforce one another.
+Oscorp's largest concern is that weaknesses in governance, asset visibility, access control, data protection, monitoring, incident response, and third-party oversight can reinforce one another. This will lead to further blindness to security threats and potential loss of critical data to the business.
 
 The result is a security environment where an incident may be:
 
@@ -52,9 +84,9 @@ Reduced Detection Capability
           ↓
 Slower Incident Identification
           ↓
-More Difficult Containment & Investigation
+Difficult Containment & Investigation
           ↓
-Greater Potential Business Impact
+Relatively unpredictable Potential Business Impact
 ```
 
 A second example:
@@ -71,58 +103,25 @@ Inconsistent Security Investment
 Persistent Control Gaps
 ```
 
-This means that delaying foundational work can also reduce the value of later technology investments.
+Delaying foundational work can also reduce the value of later technology investments.
 
 For example:
 
 - A SIEM provides limited value without defined log sources, detection rules, alert ownership, and response procedures.
 - Microsoft Entra does not establish least privilege without access policies, ownership, reviews, and exception handling.
-- A GRC platform does not create governance without an approved risk process, control ownership, evidence standards, and management oversight.
+- Any GRC platform implementation does not create governance without approved risk process, control ownership, evidence standards, and management oversight.
+
 
 ------------------------------------------------------------------------
 
-## Risk of Deferral by Time Horizon
+## Conclusion
 
-| Time Horizon       | Management Exposure                                                                                                                             |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| **0-6 Months**     | Unclear ownership, excessive access, incomplete inventories, weak incident preparedness, and inconsistent risk decisions remain active.         |
-| **6-18 Months**    | Growth in users, vendors, cloud services, and data can make existing gaps more difficult to manage and increase implementation complexity.      |
-| **18-36 Months**   | Technical debt, unresolved risk, monitoring gaps, vendor dependency, and control-validation requirements can accumulate across the environment. |
-| **Beyond 3 Years** | Oscorp risks maintaining a reactive model in which security improvements are driven by incidents rather than planned risk management.           |
+This assessment does not mean Oscorp is certain to experience a major cybersecurity incident. It just shows that several weaknesses currently increase the likelihood or potential impact of one.
 
-------------------------------------------------------------------------
+The combination of potential gaps in impacting the business is a prominent concern as a result of this assessment. Without clear governance first Oscorp risks running the dark in regards to security measures. Having no way to log data or have technological visibility leaves the door open for threat actors to move with impunity within Oscorp's current infrastructure.
 
-## What Management Should Decide
-
-Not every risk must be eliminated, and not every gap requires immediate remediation. Management can choose to:
-
-- **Mitigate** - implement controls that reduce likelihood or impact.
-- **Transfer** - shift part of the exposure through qualified service providers or insurance.
-- **Avoid** - stop the activity creating unacceptable exposure.
-- **Accept** - formally retain the risk when additional treatment is not justified.
-
-The key requirement is that **deferral should not become accidental risk acceptance**.
-
-Any material risk that is deferred should have:
-
-- A named risk owner.
-- Business justification for the delay.
-- Current risk level.
-- Expected consequences.
-- Compensating controls, where available.
-- Approval authority.
-- A review or expiration date.
-
-------------------------------------------------------------------------
-
-## Stakeholder Conclusion
-
-The assessment does not mean Oscorp is certain to experience a major cybersecurity incident. It shows that several weaknesses currently increase either the likelihood or potential impact of one.
-
-The strongest concern is the **combination of gaps**. Incomplete asset visibility, inconsistent access controls, limited monitoring, immature incident response, and unclear governance can create a situation where an incident is harder to prevent, detect, contain, investigate, and recover from.
-
-The purpose of the three-year roadmap is therefore not to eliminate cybersecurity risk. It is to give Oscorp a repeatable way to:
+The purpose of the [three-year roadmap](Documents/Roadmap/Readme.md) is therefore not to eliminate cybersecurity risk. It is to give Oscorp a repeatable way to:
 
 > **Understand risk → assign ownership → prioritize investment → implement controls → validate effectiveness → make informed decisions about the risk that remains.**
 
-From a stakeholder perspective, the most important decision is not whether every gap is closed immediately. It is whether **material risks are being actively managed, owned, funded, monitored, and formally accepted when treatment is deferred**.
+From a stakeholder perspective, the goal is not to have every gap closed immediately. It is whether **material risks are being actively managed, owned, funded, monitored, and formally accepted when treatment is deferred**.
