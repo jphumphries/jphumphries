@@ -150,7 +150,7 @@ A repeatable approach to risk scoring, prioritization, treatment, ownership, and
 
 ### 5. Risk Register
 
-**Review:** [Risk Register - Excel]([ADD-LINK-HERE](https://github.com/jphumphries/jphumphries/blob/9dee69caa9f1b77baf8b542ac4e4d1d6c5be920a/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx))
+**Review:** [Risk Register - Excel](https://github.com/jphumphries/jphumphries/blob/9dee69caa9f1b77baf8b542ac4e4d1d6c5be920a/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
 
 The assessment and gap findings were consolidated into **15 enterprise cybersecurity risks**, including:
 
@@ -205,11 +205,11 @@ No threat will ever be fully eliminated, therefore no risk will be fully elimina
 
 ### 7. Three-Year Security Roadmap
 
-**Review:** [3-Year Security Roadmap]()
+**Review:** [3-Year Security Roadmap](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/Three-Year-Roadmap.md)
 
 The roadmap converts the treatment plan into a phased security program.
 
-#### Year 1 — Foundation
+#### [Year 1](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/02-year-1-foundation.md) — Foundation
 
 - Establish cybersecurity leadership
 - Build the initial security team
@@ -218,7 +218,7 @@ The roadmap converts the treatment plan into a phased security program.
 - Strengthen IAM and endpoint security
 - Establish incident-response capability
 
-#### Year 2 — Detection & Automation
+#### [Year 2](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/03-year-2-monitoring-automation.md) — Detection & Automation
 
 - Implement centralized logging and Microsoft Sentinel
 - Expand security operations
@@ -226,7 +226,7 @@ The roadmap converts the treatment plan into a phased security program.
 - Introduce GRC automation
 - Improve DLP and security-awareness training
 
-#### Year 3 — Assurance & Optimization
+#### [Year 3](https://github.com/jphumphries/jphumphries/blob/a9d67a1a0dda7245df7cd410ccce1dff738f0fc1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/04-year-3-optimization-assurance.md) — Assurance & Optimization
 
 - Test control effectiveness
 - Improve vulnerability and cloud-security management
@@ -243,10 +243,6 @@ Strategic planning, sequencing, staffing, technology selection, budgeting, and l
 
 ## Supporting Roadmap Files
 
-- [Roadmap Overview](ADD-LINK-HERE)
-- [Year 1 — Foundation](ADD-LINK-HERE)
-- [Year 2 — Monitoring & Automation](ADD-LINK-HERE)
-- [Year 3 — Optimization & Assurance](ADD-LINK-HERE)
 - [Security Team Growth Plan](https://github.com/jphumphries/jphumphries/blob/a13e8c5f092d4822d1a07dfca43ea2e8f240280f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/staffing/security-team-growth-plan.md)
 - [Security Technology Architecture](https://github.com/jphumphries/jphumphries/blob/a13e8c5f092d4822d1a07dfca43ea2e8f240280f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/technology/security-technology-architecture.md)
 - [Technology Evaluation Criteria](https://github.com/jphumphries/jphumphries/blob/a13e8c5f092d4822d1a07dfca43ea2e8f240280f/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/governance/technology-evaluation-criteria.md)
