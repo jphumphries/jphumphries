@@ -17,7 +17,7 @@ Much of my time has also been poured into direct customer service in various rol
 ### 🔹 [GRC Practical Assessment Breakdown](https://github.com/jphumphries/jphumphries/tree/main/Projects/GRC%20Mastery%20Practical%20Breakdown) 
 - My thoughts as I worked through the GRC Mastery program
 
-### 🔹 [Capstone Project - Oscorp Cybersecurity Program Development]()
+### 🔹 [Capstone Project - Oscorp Cybersecurity Program Development](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/index.md)
 - Determine existing risk within the business
 - Develop treatments for those risks
 - Design a 3-year plan to bring their security posture into compliance
