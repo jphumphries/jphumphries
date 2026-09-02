@@ -1,8 +1,10 @@
 # NIST 800-53 Cybersecurity Assessment Summary
-
+Previous: [Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md) | Next: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
 ## Purpose
 
 This document summarizes the five assessment tables in the original workbook and is designed for a GitHub-style repository. Each section provides a short interpretation of the table followed by a Markdown image reference.
+
+Download Excel File [Here](Assessment/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
 ## Assessment Snapshot
 
@@ -76,3 +78,5 @@ Rather than replacing the existing recovery capability, the roadmap should build
 The five functions show a consistent pattern: Oscorp has several isolated controls and operational strengths, but they are not yet supported by a mature cybersecurity governance structure. The largest weaknesses are concentrated in **governance and risk ownership, access control, data protection, centralized detection, incident response, and third-party risk management**.
 
 The assessment therefore supports a phased program rather than a tool-first response: establish accountable leadership and risk processes, improve asset and identity control, strengthen endpoints and data protection, build incident response, centralize monitoring, and then move toward continuous control validation and improvement.
+
+Previous: [Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md) | Next: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
