@@ -1,4 +1,5 @@
-# Oscorp Cybersecurity Program Executive Summary
+# Oscorp Cybersecurity Program 
+## Executive Summary
 
 Working as a consultant for Oscorp revealed weaknesses in business security that are critical to the survival of the business. The most pressing issue at hand was the lack of a proper team in place to construct and run a comprehensive program. Thus, starting with governance structure was key to developing policy and procedures to manage cybersecurity risk across the organization.
 
