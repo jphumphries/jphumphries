@@ -1,5 +1,5 @@
 # Consequences of Inaction / Risk of Deferral
-Previous: [Executive Summary](Documents/executive-summary.md) | Next: [NIST Assessment Summary](Assessment/nist-assessment-summary.md)
+Previous: [Executive Summary](https://github.com/jphumphries/jphumphries/blob/2055f67e61cd4fd6a9de58137092a2fb58a0ff62/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md) | Next: [NIST Assessment Summary](https://github.com/jphumphries/jphumphries/blob/2055f67e61cd4fd6a9de58137092a2fb58a0ff62/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md)
 ### Purpose
 
 The cybersecurity gaps identified in Oscorp's assessment are interconnected. Leaving them unresolved does not only preserve today's risk; as the company adds users, systems, vendors, cloud services, and data, several gaps can become harder and more expensive to correct.
@@ -125,3 +125,6 @@ The purpose of the [three-year roadmap](Documents/Roadmap/Readme.md) is therefor
 > **Understand risk → assign ownership → prioritize investment → implement controls → validate effectiveness → make informed decisions about the risk that remains.**
 
 From a stakeholder perspective, the goal is not to have every gap closed immediately. It is whether **material risks are being actively managed, owned, funded, monitored, and formally accepted when treatment is deferred**.
+
+
+Previous: [Executive Summary](https://github.com/jphumphries/jphumphries/blob/2055f67e61cd4fd6a9de58137092a2fb58a0ff62/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md) | Next: [NIST Assessment Summary](https://github.com/jphumphries/jphumphries/blob/2055f67e61cd4fd6a9de58137092a2fb58a0ff62/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md)
