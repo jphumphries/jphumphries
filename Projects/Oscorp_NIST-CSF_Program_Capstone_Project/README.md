@@ -108,7 +108,7 @@ The purpose of the register is to convert technical deficiencies into **business
 
 ### 3. Gap Assessment
 
-**Review:** [Gap Assessment](ADD-LINK-HERE)
+**Review:** [Gap Assessment](https://github.com/jphumphries/jphumphries/blob/25d369f02d47109907b92c97ebb99db39aafb0e9/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
 The assessment findings were consolidated into **34 security gaps** and compared against a defined target state.
 
@@ -127,7 +127,7 @@ Gap analysis, control maturity assessment, remediation prioritization, and trace
 
 ### 4. Risk Assessment Methodology
 
-**Review:** [Risk Assessment Methodology](ADD-LINK-HERE)
+**Review:** [Risk Assessment Methodology](https://github.com/jphumphries/jphumphries/blob/25d369f02d47109907b92c97ebb99db39aafb0e9/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
 
 The project uses a **1–5 likelihood and impact model**:
 
@@ -147,7 +147,7 @@ A repeatable approach to risk scoring, prioritization, treatment, ownership, and
 
 ### 5. Risk Register
 
-**Review:** [Risk Register](ADD-LINK-HERE)
+**Review:** [Risk Register - Excel]([ADD-LINK-HERE](https://github.com/jphumphries/jphumphries/blob/9dee69caa9f1b77baf8b542ac4e4d1d6c5be920a/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx))
 
 The assessment and gap findings were consolidated into **15 enterprise cybersecurity risks**, including:
 
@@ -165,10 +165,6 @@ The assessment and gap findings were consolidated into **15 enterprise cybersecu
 
 The purpose of the register is to convert technical deficiencies into **business risk**.
 
-For example:
-
-> Instead of simply stating that Oscorp lacks a SIEM, the risk focuses on how limited centralized monitoring increases the chance that malicious activity could remain undetected.
-
 **What this demonstrates:**  
 Risk identification, business-impact analysis, ownership, inherent risk, residual risk, and prioritization.
 
@@ -176,7 +172,7 @@ Risk identification, business-impact analysis, ownership, inherent risk, residua
 
 ### 6. Risk Treatment Plan
 
-[Risk Treatment Plan]((Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
+**Review:** [Risk Treatment Plan]((Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
 
 This defines how Oscorp should respond to each major risk. the logic behind the column names in the register are as follows:
 
@@ -200,7 +196,7 @@ Control Validation
 Residual Risk
 ```
 
-No threat will ever be fully eliminated, therefore no risk will be fully eliminated but only managed. Each risk is not considered treated simply because a tool is purchased or a policy was written. Controls must be assessed, implemented, and measured for effectiveness in mitaged the associated risks in the register.
+No threat will ever be fully eliminated, therefore no risk will be fully eliminated but only managed. Each risk is not considered treated simply because a tool is purchased or a policy was written. Controls must be assessed, implemented, and measured for effectiveness in mitagating the associated risks in the register.
 
 ---
 
