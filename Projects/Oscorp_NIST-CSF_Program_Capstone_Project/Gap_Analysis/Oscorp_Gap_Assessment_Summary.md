@@ -1,4 +1,5 @@
-# Oscorp Gap Assessment Summary
+# Gap Assessment Summary
+Previous: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/7259741a49891b77476cc40f69ad45dd56dc64b1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)| Next: [Risk Register Summary](https://github.com/jphumphries/jphumphries/blob/7259741a49891b77476cc40f69ad45dd56dc64b1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md)
 
 ## Overview
 
@@ -140,3 +141,5 @@ The remediation strategy therefore prioritizes the following2:
 - assurance and optimization third.
 
 This Gap Assessment serves as the bridge between the original [NIST assessment](Assessment/nist-assessment-summary.md) and the rest of the project.
+
+Previous: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/7259741a49891b77476cc40f69ad45dd56dc64b1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)| Next: [Risk Register Summary](https://github.com/jphumphries/jphumphries/blob/7259741a49891b77476cc40f69ad45dd56dc64b1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md)
