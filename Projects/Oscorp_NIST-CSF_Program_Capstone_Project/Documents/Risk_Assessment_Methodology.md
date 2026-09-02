@@ -1,4 +1,4 @@
-# Oscorp Risk Assessment Methodology
+# Risk Assessment Methodology
 
 > **Project:** Oscorp Cybersecurity Program  
 > **Framework:** NIST Cybersecurity Framework (CSF)  
