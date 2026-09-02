@@ -26,7 +26,7 @@ The work follows a simple progression:
 [3-Year Security Roadmap](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/Three-Year-Roadmap.md)
 - [Year 1](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/02-year-1-foundation.md)
 - [Year 2](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/03-year-2-monitoring-automation.md)
-- [Year 3](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/03-year-2-monitoring-automation.md)
+- [Year 3](https://github.com/jphumphries/jphumphries/blob/a9d67a1a0dda7245df7cd410ccce1dff738f0fc1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/04-year-3-optimization-assurance.md)
 
 The goal was to move beyond identifying security weaknesses and show how those findings can be translated into **business risk, treatment decisions, ownership, technology requirements, budget considerations, and long-term improvement**.
 
