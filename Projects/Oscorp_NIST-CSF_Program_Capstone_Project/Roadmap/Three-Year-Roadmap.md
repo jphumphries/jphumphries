@@ -1,4 +1,4 @@
-# Oscorp 3-Year Risk-Driven Cybersecurity Roadmap
+# 3-Year Risk-Driven Cybersecurity Roadmap
 
 ## Project Overview
 
