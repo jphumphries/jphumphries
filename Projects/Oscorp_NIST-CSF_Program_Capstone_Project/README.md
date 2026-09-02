@@ -20,7 +20,7 @@ The work follows a simple progression:
 - [Risk Register - Excel](https://github.com/jphumphries/jphumphries/blob/9fea8765898c35ddf3f5a44439f2c595c92da7a4/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
 
 [Risk Treatment Plan](https://github.com/jphumphries/jphumphries/blob/9e0e8b0db4865f55d9501dab7db99c1f967961e7/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_Risk_Treatment_Plan_Summary.md)
-- [Risk Treatment Plan Excel](Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
+- [Risk Treatment Plan Excel](https://github.com/jphumphries/jphumphries/blob/bd15c357bfc7351a5f137f6b802197e5fe237ef9/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Treatment_Plan.xlsx)
 
 [3-Year Security Roadmap](Roadmap/Roadmap.md)
 - [Year 1](Documents/Strategy/02-year-1-foundation.md)
