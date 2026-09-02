@@ -6,7 +6,7 @@ The work follows a simple progression:
 
 [Executive Summary](Documents/executive-summary.md)
 
-[Consequences of Inaction](Strategy/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
+[Consequences of Inaction](Documents/Strategy/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
 
 [NIST Assessment Summary](Assessment/nist-assessment-summary.md)
 - [NIST Assessment — GitHub Version](Assessment/nist-assessment-full-tables.md)
