@@ -28,3 +28,5 @@ Hire a **Cybersecurity / GRC Manager** first. This leader should:
 
 The roadmap models Oscorp with approximately **250 users**.NIST CSF 2.0
 is used as the forward-looking target framework.
+
+Next: [Year 1](Documents/Strategy/02-year-1-foundation.md)
