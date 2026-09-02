@@ -1,8 +1,8 @@
-# Oscorp NIST CSF Gap Assessment Summary
+# Oscorp Gap Assessment Summary
 
 ## Overview
 
-The Oscorp Gap Assessment identifies **34 cybersecurity gaps** across the NIST functions **Identify, Protect, Detect, Respond, and Recover**. The overall pattern is clear: Oscorp has some useful security practices in place, but many important controls are either **not implemented, inconsistently implemented, or not formally governed**.
+The Oscorp Gap Assessment identifies **34 cybersecurity gaps** across the NIST functions. The overall pattern is clear: Oscorp has some useful security practices in place, but many important controls are either **not implemented, inconsistently implemented, or not formally governed**.
 
 The assessment is designed to connect the current state to a defined target state, assign ownership, link each gap to a related business risk, and sequence remediation into the three-year security roadmap.
 
@@ -30,19 +30,28 @@ The assessment is designed to connect the current state to a defined target stat
 |         **4 — Managed** | Measured, monitored, tested, and reviewed                    |
 |       **5 — Optimized** | Continuously improved using performance and risk information |
 
-Most remediation efforts initially target **Level 3 — Defined**, creating a repeatable control environment before moving toward higher levels of monitoring and optimization.
+The goal is to target **Level 3** with planned efforts in each category. This will establish a workable foundation before moving to fully mature the implemented controls.
 
 ------------------------------------------------------------------------
 
-## Key Findings by NIST Function
+## Key Findings
 
 ### Identify — 12 Gaps
 
 The largest foundational weaknesses are in **governance, asset visibility, risk management, business impact analysis, and third-party oversight**.
 
-Key gaps include incomplete hardware/software/SaaS inventories, undocumented network and data flows, undefined cybersecurity roles, missing policy structure, no formal risk-management process, undefined risk tolerance, limited BIA capability, and incomplete supplier classification.
+Key gaps include: 
+- incomplete hardware/software/SaaS inventories
+- undocumented network and data flows
+- undefined cybersecurity roles
+- missing policy structure
+- no formal risk-management process
+- undefined risk tolerance
+- limited Business Impact Analysis capability
+- incomplete supplier classification
 
-**Business implication:** Oscorp does not yet have a consistent way to determine **what must be protected, who owns the risk, which assets and services are most important, or how cybersecurity decisions should be prioritized**.
+**Business implication:** 
+Oscorp must establish a consistent way to determine what must be protected and who owns that risk. They also must categorize which assets and services are most important and how cybersecurity decisions should be prioritized.
 
 ### Protect — 12 Gaps
 
@@ -99,7 +108,7 @@ The assessment identifies the following **14 critical-priority gaps**:
 
 ------------------------------------------------------------------------
 
-## Remediation Direction
+## 3-Year Compliance Plan
 
 The gap assessment supports a phased remediation sequence:
 
@@ -117,14 +126,15 @@ Move from implementation toward control-effectiveness testing, continuous monito
 
 ------------------------------------------------------------------------
 
-## Key Takeaway
+## Key Takeaways
 
 The most important conclusion from the Gap Assessment is that Oscorp's weaknesses are **interdependent**.
 
-A SIEM will not solve detection without defined log sources and response ownership. IAM technology will not establish least privilege without access governance. A GRC platform will not create risk management without defined methodology, ownership, and management oversight.
+Log sourcing and ownership must be defined before a SIEM solution can honestly be considered. Though I think it possible to do this while getting used to the workflow using a SIEM service, this clearly defines these steps for this exercise. With ownership established, IAM technology can more accurately be used to set least privilege. A GRC platform will not create risk management without defined methodology, ownership, and management oversight.
 
-The remediation strategy therefore prioritizes **governance and foundational controls first, monitoring and automation second, and assurance and optimization third**.
+The remediation strategy therefore prioritizes the following2:
+- governance and foundational controls
+- monitoring and automation
+- assurance and optimization third.
 
-This Gap Assessment serves as the bridge between the original NIST assessment and the rest of the project:
-
-> **Assessment Finding → Security Gap → Business Risk → Treatment → Roadmap**
+This Gap Assessment serves as the bridge between the original [NIST assessment](Assessment/nist-assessment-summary.md) and the rest of the project.
