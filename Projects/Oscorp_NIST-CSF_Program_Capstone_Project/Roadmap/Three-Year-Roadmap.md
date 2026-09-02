@@ -81,3 +81,5 @@ Risk Treatment Plan
       ↓
 3-Year Cybersecurity Roadmap
 ```
+
+Previous: [Risk Treatment Plan Summary](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_Risk_Treatment_Plan_Summary.md) | Next: [Year 1 Plan](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/02-year-1-foundation.md)
