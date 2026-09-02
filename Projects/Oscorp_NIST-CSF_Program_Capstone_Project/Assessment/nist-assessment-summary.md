@@ -1,4 +1,4 @@
-# Oscorp NIST Cybersecurity Assessment — Summary
+# NIST 800-53 Cybersecurity Assessment Summary
 
 ## Purpose
 
