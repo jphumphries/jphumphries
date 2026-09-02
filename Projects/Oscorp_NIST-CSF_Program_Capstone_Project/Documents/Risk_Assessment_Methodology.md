@@ -1,5 +1,5 @@
 # Risk Assessment Methodology
-Previous: [NIST Assessment Summary](Assessment/nist-assessment-summary.md) | Next: [Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
+Previous: [NIST Assessment Summary](https://github.com/jphumphries/jphumphries/blob/201b3c74295fd9413894b416f726fb24a0424ac5/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md) | Next: [Gap Assessment](https://github.com/jphumphries/jphumphries/blob/201b3c74295fd9413894b416f726fb24a0424ac5/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
 > **Project:** Oscorp Cybersecurity Program  
 > **Framework:** NIST 800-53 Cybersecurity Framework 
@@ -489,4 +489,4 @@ This methodology connects the individual elements of the Oscorp engagement into 
 
 The objective is not simply to determine whether a cybersecurity control passes or fails. The objective is to understand **what the deficiency means to the business, how significant the resulting risk is, what can realistically be done about it, and when that remediation should occur**.
 
-Previous: [NIST Assessment Summary](Assessment/nist-assessment-summary.md) | Next: [Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
+Previous: [NIST Assessment Summary](https://github.com/jphumphries/jphumphries/blob/201b3c74295fd9413894b416f726fb24a0424ac5/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md) | Next: [Gap Assessment](https://github.com/jphumphries/jphumphries/blob/201b3c74295fd9413894b416f726fb24a0424ac5/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
