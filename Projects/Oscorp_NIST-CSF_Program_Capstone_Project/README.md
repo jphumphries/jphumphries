@@ -172,7 +172,7 @@ Risk identification, business-impact analysis, ownership, inherent risk, residua
 
 ### 6. Risk Treatment Plan
 
-**Review:** [Risk Treatment Plan]((Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
+**Review:** [Risk Treatment Plan](https://github.com/jphumphries/jphumphries/blob/08094faa0df93db4148a48cfb7d01d8c08f7b55e/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_Risk_Treatment_Plan_Summary.md)
 
 This defines how Oscorp should respond to each major risk. the logic behind the column names in the register are as follows:
 
