@@ -1,9 +1,5 @@
 # Risk Treatment Plan Summary
 
-## Purpose
-
-The Risk Treatment Plan translates Oscorp's identified cybersecurity risks into specific treatment actions, ownership, implementation timing, evidence requirements, and expected residual risk.
-
 The plan covers **15 consolidated cybersecurity risks** and connects the Risk Register to the three-year security roadmap.
 
 > **Risk → Related Gaps → Treatment Objective → Treatment Actions → Owner → Evidence → Control Validation → Residual Risk**
