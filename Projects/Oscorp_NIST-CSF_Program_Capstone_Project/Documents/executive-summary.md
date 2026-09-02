@@ -91,6 +91,8 @@ For example, deploying a SIEM does not by itself create an effective security mo
 
 The same principle applies to governance and compliance platforms. These systems can help manage controls, evidence, assessments, and compliance activities, but they cannot replace security leadership, policies, risk ownership, technical controls, or control testing.
 
+---
+
 ## Three-Year Cybersecurity Transformation
 
 ### Year 1 — Establish the Foundation
@@ -115,6 +117,7 @@ Microsoft Entra ID, Intune, and Defender are proposed as important components of
 
 The objective at the end of Year 1 is not simply to have new software deployed. Oscorp should be able to demonstrate that cybersecurity responsibilities are assigned, risks are actively managed, important assets are known, access is better controlled, endpoints are managed, and personnel understand how to respond to cybersecurity incidents.
 
+
 ### Year 2 — Improve Detection and Automation
 
 After the foundational controls are established, Year 2 should focus on monitoring, detection, incident investigation, data protection, and appropriate compliance automation.
@@ -132,6 +135,7 @@ Even with this additional employee, the internal team would not be large enough 
 Year 2 is also the proposed point for introducing a GRC automation platform. Drata has been identified as a potential option, but final selection should depend on a formal product evaluation, demonstration, integration requirements, and vendor quote.
 
 Microsoft Purview should also be evaluated to improve data classification, information protection, auditing, and Data Loss Prevention.
+
 
 ### Year 3 — Optimize and Validate
 
@@ -152,6 +156,8 @@ As Oscorp’s cloud environment grows, Microsoft Defender for Cloud can also be 
 The security team should continue to mature during this period. The Cybersecurity/GRC Manager may develop into a Director of Cybersecurity & GRC, while additional specialization is introduced within security engineering and security operations.
 
 By the end of Year 3, Oscorp should have moved from an environment where many cybersecurity activities are informal or reactive toward one where controls are documented, assigned, monitored, tested, and improved.
+
+---
 
 ## Technology Strategy
 
