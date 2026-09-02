@@ -1,6 +1,8 @@
 # Oscorp Gap Assessment Summary
 
 ## Overview
+ 
+Download Gap Assessment [Excel File](Gap_Anaysis/Oscorp_NIST_CSF_Gap_Assessment.xlsx)
 
 The Oscorp Gap Assessment identifies **34 cybersecurity gaps** across the NIST functions. The overall pattern is clear: Oscorp has some useful security practices in place, but many important controls are either **not implemented, inconsistently implemented, or not formally governed**.
 
@@ -30,7 +32,7 @@ The assessment is designed to connect the current state to a defined target stat
 |         **4 — Managed** | Measured, monitored, tested, and reviewed                    |
 |       **5 — Optimized** | Continuously improved using performance and risk information |
 
-The goal is to target **Level 3** with planned efforts in each category. This will establish a workable foundation before moving to fully mature the implemented controls.
+The goal is to target **Level 3** with the planned efforts in each category. This will establish a workable foundation before moving to fully mature the implemented controls.
 
 ------------------------------------------------------------------------
 
