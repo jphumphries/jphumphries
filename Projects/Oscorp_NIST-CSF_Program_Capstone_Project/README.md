@@ -1,4 +1,4 @@
-# Oscorp Cybersecurity Program
+# Oscorp NIST 800-53 Assessment & Cybersecurity Program Plan
 
 This project demonstrates how I approached the design of a cybersecurity program from assessment based on an initial [NIST 800-53 assessment](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md).
 
@@ -16,7 +16,7 @@ The work follows a simple progression:
 
 [Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
-[Risk Register](Risk_Management/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
+[Risk Register Summary]([Risk_Management/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx](https://github.com/jphumphries/jphumphries/blob/1148f357d2d30f9c3afe43cdbf5cf3711032d5d1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md))
 
 [Risk Treatment Plan](Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Paln.xlsx)
 
