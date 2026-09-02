@@ -48,7 +48,7 @@ There exists no standard with which to assess the security value of Third-party 
 
 The goal of the proposed program is therefore not to replace everything Oscorp currently does, but to organize existing strengths within a more complete cybersecurity program.
 
-## Risk Assessment Results
+## [Risk Assessment Results](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md)
 
 The assessment findings were consolidated into 15 cybersecurity risks within the Oscorp Risk Register. These risks represent potential business exposure rather than simply highlighting individual technical deficiencies.
 
@@ -94,7 +94,7 @@ The same principle applies to governance and compliance platforms. These systems
 
 ---
 
-## Three-Year Cybersecurity Transformation
+## [Three-Year Plan for Cybersecurity Program]()
 
 ## Year 1 — Establish the Foundation
 
@@ -232,7 +232,7 @@ By the conclusion of Year 3, Oscorp should have:
 
 The result should not be viewed as the completion of cybersecurity work. Instead, Oscorp should have the structure needed to manage cybersecurity as an ongoing business risk.
 
-## Management Conclusion
+## Conclusion
 
 Oscorp’s primary cybersecurity challenge is not the absence of a particular security product. The larger issue is the need for an organized security program with clearly assigned responsibility, executive support, repeatable risk-management processes, appropriate technical controls, and evidence that those controls are working.
 
