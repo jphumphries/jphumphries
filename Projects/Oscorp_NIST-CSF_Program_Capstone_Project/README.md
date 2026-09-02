@@ -1,20 +1,21 @@
 # Oscorp NIST 800-53 Assessment & Cybersecurity Program Plan
 
-This project demonstrates how I approached the design of a cybersecurity program from assessment based on an initial [NIST 800-53 assessment](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md).
+This project demonstrates how I approached the design of a cybersecurity program from assessment based on an initial [NIST 800-53 assessment](https://github.com/jphumphries/jphumphries/blob/0237fd1f938289685a6dd6f2a7595c866ec672b7/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx).
 
 The work follows a simple progression:
 
-[Executive Summary](Documents/executive-summary.md)
+[Executive Summary](https://github.com/jphumphries/jphumphries/blob/0237fd1f938289685a6dd6f2a7595c866ec672b7/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/executive-summary.md)
 
-[Consequences of Inaction](Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
+[Consequences of Inaction](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Consequences_of_Inaction_Stakeholder_Brief.md)
 
-[NIST Assessment Summary](Assessment/nist-assessment-summary.md)
-- [NIST Assessment — GitHub Version](Assessment/nist-assessment-full-tables.md)
+[NIST Assessment Summary](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md)
+- [NIST Assessment — GitHub Version](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-full-tables.md)
 - [NIST Assessment — Excel](https://github.com/jphumphries/jphumphries/blob/fe1bb9ae5632d225c9444ee2eb7f5000595c2079/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
 [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/c57014cd37f240bcb048bec760017f4a3502a480/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md)
 
-[Gap Assessment](Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
+[Gap Assessment](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
+- [Gap Assessment Exccel](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Gap_Analysis/Oscorp_NIST_CSF_Gap_Assessment.xlsx)
 
 [Risk Register Summary](https://github.com/jphumphries/jphumphries/blob/1148f357d2d30f9c3afe43cdbf5cf3711032d5d1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md)
 - [Risk Register - Excel](https://github.com/jphumphries/jphumphries/blob/9fea8765898c35ddf3f5a44439f2c595c92da7a4/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Register_2026_1-5_Model.xlsx)
@@ -22,10 +23,10 @@ The work follows a simple progression:
 [Risk Treatment Plan](https://github.com/jphumphries/jphumphries/blob/9e0e8b0db4865f55d9501dab7db99c1f967961e7/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_Risk_Treatment_Plan_Summary.md)
 - [Risk Treatment Plan Excel](https://github.com/jphumphries/jphumphries/blob/bd15c357bfc7351a5f137f6b802197e5fe237ef9/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_NIST_CSF_Risk_Treatment_Plan.xlsx)
 
-[3-Year Security Roadmap](Roadmap/Roadmap.md)
-- [Year 1](Documents/Strategy/02-year-1-foundation.md)
-- [Year 2](Documents/Strategy/03-year-2-monitoring-automation.md)
-- [Year 3](Documents/Strategy/04-year-3-optimization-assurance.md)
+[3-Year Security Roadmap](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/Three-Year-Roadmap.md)
+- [Year 1](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/02-year-1-foundation.md)
+- [Year 2](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/03-year-2-monitoring-automation.md)
+- [Year 3](https://github.com/jphumphries/jphumphries/blob/ffe1dd2e2902c46072f64563cd423e946cd8c50c/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/03-year-2-monitoring-automation.md)
 
 The goal was to move beyond identifying security weaknesses and show how those findings can be translated into **business risk, treatment decisions, ownership, technology requirements, budget considerations, and long-term improvement**.
 
