@@ -2,18 +2,19 @@
 
 ## Planning Assumptions
 
-The roadmap models Oscorp with approximately **250 users**. NIST CSF 2.0
+The roadmap models Oscorp with approximately **250 users**.NIST CSF 2.0
 is used as the forward-looking target framework.
 
 ## First 90 Days
 
-Hire the **Cybersecurity / GRC Manager** first. This leader should: -
-Build the cybersecurity team. - Establish program ownership and
-reporting. - Validate the assessment and remediation priorities. -
-Develop and approve risk methodology. - Confirm asset, identity,
-endpoint, logging and data-protection requirements. - Validate
-technology requirements before major purchases. - Coordinate with the
-CTO as executive sponsor.
+Hire a **Cybersecurity / GRC Manager** first. This leader should: 
+- Build the cybersecurity team.
+- Establish program ownership and reporting.
+- Validate the assessment and remediation priorities.
+- Develop and approve risk methodology.
+- Confirm asset, identity, endpoint, logging and data-protection requirements.
+- Validate technology requirements before major purchases.
+- Coordinate with the CTO as executive sponsor.
 
 ## Program Sequence
 
