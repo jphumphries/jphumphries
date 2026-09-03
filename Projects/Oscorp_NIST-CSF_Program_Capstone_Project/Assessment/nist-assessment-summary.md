@@ -4,7 +4,7 @@ Previous: [Consequences of Inaction](https://github.com/jphumphries/jphumphries/
 
 This document summarizes the five assessment tables in the original workbook and is designed for a GitHub-style repository. Each section provides a short interpretation of the table followed by a Markdown image reference.
 
-Download Excel File [Here](https://github.com/jphumphries/jphumphries/blob/cfa6ce8ce0d1fd2e5cb6ef772750dc888b11e8c2/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
+Download Excel File [Here](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
 ## Assessment Snapshot
 
