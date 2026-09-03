@@ -44,4 +44,4 @@ Oscorp should demonstrate defined governance, an active risk process,
 improved inventory, centralized IAM, managed endpoints, foundational
 incident response and documented third-party security processes.
 
-Next Document: [Year 2](Documents/Strategy/03-year-2-monitoring-automation.md)
+Previous: [3 Year Overview](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Roadmap/Three-Year-Roadmap.md) Next: [Year 2 Plan](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/03-year-2-monitoring-automation.md)
