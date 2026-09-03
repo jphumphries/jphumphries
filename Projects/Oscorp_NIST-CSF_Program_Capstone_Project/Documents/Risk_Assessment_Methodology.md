@@ -1,11 +1,11 @@
 # Risk Assessment Methodology
-Previous: [NIST Assessment Summary](https://github.com/jphumphries/jphumphries/blob/201b3c74295fd9413894b416f726fb24a0424ac5/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md) | Next: [Gap Assessment](https://github.com/jphumphries/jphumphries/blob/201b3c74295fd9413894b416f726fb24a0424ac5/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
+Previous: [NIST Assessment Summary](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/nist-assessment-summary.md) | Next: [Gap Assessment](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Gap_Analysis/Oscorp_Gap_Assessment_Summary.md)
 
 > **Project:** Oscorp Cybersecurity Program  
 > **Framework:** NIST 800-53 Cybersecurity Framework 
 > **Artifact:** Risk Assessment Methodology  
 
-**Related Deliverable:** [Oscorp_NIST_CSF_Risk_Register_2026_Strong.xlsx](https://github.com/jphumphries/jphumphries/blob/c8a42985cd4697c0b7cc032fe3d5073ff9512410/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
+**Related Deliverable:** [Oscorp_NIST_CSF_Risk_Register_2026_Strong.xlsx](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
 ## 1. Purpose
 
