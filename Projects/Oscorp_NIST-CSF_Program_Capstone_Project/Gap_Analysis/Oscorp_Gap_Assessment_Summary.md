@@ -7,7 +7,7 @@ The Oscorp Gap Assessment identifies **34 cybersecurity gaps** across the NIST f
 
 The assessment is designed to connect the current state to a defined target state, assign ownership, link each gap to a related business risk, and sequence remediation into the three-year security roadmap.
 
->Download Gap Assessment [Excel File](Gap_Anaysis/Oscorp_NIST_CSF_Gap_Assessment.xlsx)
+>Download Gap Assessment [Excel File]([Gap_Anaysis/Oscorp_NIST_CSF_Gap_Assessment.xlsx](https://github.com/jphumphries/jphumphries/blob/4e7192107e2fd6b4a013a24bc421283144c5a0be/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Gap_Analysis/Oscorp_NIST_CSF_Gap_Assessment.xlsx))
 
 ## Assessment Snapshot
 
