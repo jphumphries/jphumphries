@@ -32,4 +32,4 @@ capabilities after data-classification requirements are established.
 Establish recurring security-awareness training at least annually and
 update it when material threats or risks change.
 
-Next Document: [Year 3](Documents/Strategy/04-year-3-optimization-assurance.md)
+Previous: [Year 1 Plan](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/02-year-1-foundation.md) | Next: [Year 3 Plan](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Strategy/04-year-3-optimization-assurance.md)
