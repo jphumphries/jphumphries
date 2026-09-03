@@ -38,14 +38,15 @@ Much of my time has also been poured into direct customer service in various rol
 - Policy & Procedure Evaluation  
 - Security Governance & Compliance  
 
-
 ---
 
 ## 📈 What I’m Currently Working On
 
-- Preparing for CompTIA Security+ Certification
+- Actively Preparing for CompTIA Security+ Certification
 - Understanding AI integration and the unique challenges that come leveraging these supplementary tools in practical use cases 
-- Strengthening expertise in risk-based decision making
+- Routinely working through career paths on TryHackMe, to include:
+  - SOC Level 1 Path
+  - Security Engineer Path
 - Keeping track of real-world situations and drawing on experiences from myself and others to understand why certain policies and procedures are needed
 ---
 
