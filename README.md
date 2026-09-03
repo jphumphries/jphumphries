@@ -8,7 +8,7 @@ There aren't always clear answers to security problems, particularly when it com
 
 Much of my time has also been poured into direct customer service in various roles. During these times, I had the privilege to learn how to translate corporate jargon into language that customers understand. Active GRC solutions should enable growth & productivity while remaining in compliance with standards to ensure operational security. 
 
-[A Bit More About Me](https://github.com/jphumphries/jphumphries/edit/main/AboutMe.md)
+[A Bit More About Me](https://github.com/jphumphries/jphumphries/blob/main/AboutMe.md)
 
 ---
 
@@ -17,7 +17,7 @@ Much of my time has also been poured into direct customer service in various rol
 ### 🔹 [GRC Practical Assessment Breakdown](https://github.com/jphumphries/jphumphries/tree/main/Projects/GRC%20Mastery%20Practical%20Breakdown) 
 - My thoughts as I worked through the GRC Mastery program
 
-### 🔹 [Capstone Project - Oscorp Cybersecurity Program Development](Projects/Oscorp_NIST-CSF_Program_Capstone_Project/README.md)
+### 🔹 [Capstone Project - Oscorp Cybersecurity Program Development](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/README.md)
 - Determine existing risk within the business
 - Develop treatments for those risks
 - Design a 3-year plan to bring their security posture into compliance
