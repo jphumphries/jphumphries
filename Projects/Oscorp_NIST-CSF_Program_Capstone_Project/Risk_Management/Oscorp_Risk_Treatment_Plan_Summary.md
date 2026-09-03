@@ -5,7 +5,7 @@ Previous: [Risk Register Summary](https://github.com/jphumphries/jphumphries/blo
 
 The Risk Treatment Plan translates Oscorp's identified cybersecurity risks into specific treatment actions, ownership, implementation timing, evidence requirements, and expected residual risk.
 
-Download [Excel File](https://github.com/jphumphries/jphumphries/blob/d5766270fa3101f8fadfb5a33180a10e7649f8c0/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Plan.xlsx)
+Download [Excel File](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Risk_Management/Oscorp_NIST_CSF_Risk_Treatment_Plan.xlsx)
 
 The plan covers **15 consolidated cybersecurity risks** and connects the Risk Register to the three-year security roadmap.
 
