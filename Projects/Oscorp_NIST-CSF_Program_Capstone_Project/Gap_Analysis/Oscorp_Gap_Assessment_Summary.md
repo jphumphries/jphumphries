@@ -1,4 +1,4 @@
-# Gap Assessment Summary
+# Gap Analysis Summary
 Previous: [Risk Methodology](https://github.com/jphumphries/jphumphries/blob/7259741a49891b77476cc40f69ad45dd56dc64b1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Risk_Assessment_Methodology.md) | Next: [Risk Register Summary](https://github.com/jphumphries/jphumphries/blob/7259741a49891b77476cc40f69ad45dd56dc64b1/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/Oscorp_Risk_Register_Summary.md)
 
 ## Overview
