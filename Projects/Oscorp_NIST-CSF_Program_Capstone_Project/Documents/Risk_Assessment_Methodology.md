@@ -5,7 +5,7 @@ Previous: [NIST Assessment Summary](https://github.com/jphumphries/jphumphries/b
 > **Framework:** NIST 800-53 Cybersecurity Framework 
 > **Artifact:** Risk Assessment Methodology  
 
-**Related Deliverable:** [Oscorp_NIST_CSF_Risk_Register_2026_Strong.xlsx](Assessment/Oscorp_NIST-CSF_Program_Capstone_Project/Assessment/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
+**Related Deliverable:** [Oscorp_NIST_CSF_Risk_Register_2026_Strong.xlsx](https://github.com/jphumphries/jphumphries/blob/c8a42985cd4697c0b7cc032fe3d5073ff9512410/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/Documents/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment_2026.xlsx)
 
 ## 1. Purpose
 
