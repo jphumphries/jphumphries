@@ -14,13 +14,13 @@ Much of my time has also been poured into direct customer service in various rol
 
 ## 📂 Featured Projects
 
-### 🔹 [GRC Practical Assessment Breakdown](https://github.com/jphumphries/jphumphries/tree/main/Projects/GRC%20Mastery%20Practical%20Breakdown) 
-- My thoughts as I worked through the GRC Mastery program
-
 ### 🔹 [Capstone Project - Oscorp Cybersecurity Program Development](https://github.com/jphumphries/jphumphries/blob/main/Projects/Oscorp_NIST-CSF_Program_Capstone_Project/README.md)
 - Determine existing risk within the business
 - Develop treatments for those risks
 - Design a 3-year plan to bring their security posture into compliance
+
+### 🔹 [GRC Mastery - Practical Assessment Breakdown](https://github.com/jphumphries/jphumphries/tree/main/Projects/GRC%20Mastery%20Practical%20Breakdown) 
+- My thoughts as I worked through the GRC Mastery program
 
 ### 🔹 ISO 27001 Documentation Audit – Posting Soon
 
