@@ -13,7 +13,6 @@ This methodology establishes a consistent, risk-based approach for identifying, 
 
 The assessment uses the **NIST Cybersecurity Framework (CSF)** to evaluate the current state of cybersecurity controls and translate identified deficiencies into business-relevant risks. The methodology is intended to support practical decision-making by considering not only technical exposure, but also business criticality, available personnel, budget, implementation complexity, operational requirements, and dependencies between security initiatives.
 
-> **Core principle:** Security improvements should reduce meaningful business risk while remaining practical, measurable, and sustainable for the organization.
 
 ---
 
